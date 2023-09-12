@@ -239,6 +239,56 @@
 | June 5, 2023    | Snatch           | USA              | Healthcare                                    | Mount Desert Hospital                           |
 | June 4, 2023    | BianLian         | India            | Manufacturing                                 | Aarti Industries Ltd.                           |
 | June 4, 2023    | BianLian         | USA              | Legal                                         | Chadwick, Washington, Moriarty, Elmore & Bunn   |
+| June 4, 2023    | BianLian         | South Korea     | Healthcare                                    | Handok Inc                                   |
+| June 4, 2023    | BianLian         | USA             | Manufacturing                                 | TY Inc                                      |
+| June 4, 2023    | BianLian         | Canada          | Construction                                  | Laebon Homes                                |
+| June 4, 2023    | BianLian         | USA             | Professional, Scientific & Technical Services | EDG Inc                                     |
+| June 4, 2023    | Rhysida          | Spain           | State & Local Government                      | Ayuntamiento de Arganda City Council        |
+| June 3, 2023    | BlackByte        | United Kingdom  | Manufacturing                                 | Brett Martin                                |
+| June 3, 2023    | Rhysida          | Italy           | Other                                         | BM Group Polytech                           |
+| June 2, 2023    | LockBit          | USA             | Transportation & Warehousing                  | PCM                                        |
+| June 2, 2023    | LockBit          | USA             | Legal                                         | Harwood Lloyd                              |
+| June 2, 2023    | LockBit          | USA             | Accommodations & Food Services                | Shakey's                                   |
+| June 2, 2023    | LockBit          | Japan           | Manufacturing                                 | YKK                                        |
+| June 2, 2023    | Play             | Czech Republic  | Transportation & Warehousing                  | CS Cargo                                   |
+| June 2, 2023    | Play             | Switzerland     | Information & Technology                      | Unico Data                                 |
+| June 1, 2023    | Play             | Spain           | Finance & Insurance                           | Globalcaja                                 |
+| May 30, 2023   | ViceSociety      | Netherlands     | Construction                                  | Adsboll                                    |
+| May 30, 2023   | Medusa           | Turkey          | Information & Technology                     | BilgeAdam Software                          |
+| May 30, 2023   | Unknown          | Canada          | Education                                     | University of Waterloo                      |
+| May 30, 2023   | ALPHV            | USA             | Information & Technology                     | Casepoint                                  |
+| May 30, 2023   | BianLian         | USA             | Manufacturing                                 | Neutronic Stamping                          |
+| May 30, 2023   | BianLian         | USA             | Healthcare                                    | Earlens Corporation                         |
+| May 30, 2023   | LockBit          | USA             | Other                                         | Adstra                                     |
+| May 29, 2023   | Dunghill         | Brazil          | Construction                                  | Andrade Gutierrez                           |
+| May 29, 2023   | ALPHV            | USA             | Legal                                         | BC Attorney                                |
+| May 29, 2023   | Dunghill         | USA             | Arts, Entertainment & Recreation              | Incredible Technologies                     |
+| May 29, 2023   | LockBit          | France          | Arts, Entertainment & Recreation              | Voyageurs Du Monde                         |
+| May 26, 2023   | Royal            | France          | Other                                         | Groupe Sovitrat Interim and Recrutement    |
+| May 26, 2023   | LockBit          | USA             | Manufacturing                                 | Kyrocera AVX                               |
+| May 26, 2023   | ALPHV            | United Kingdom  | Finance & Insurance                           | Wenn Townsend                               |
+| May 25, 2023   | LockBit          | India           | Information & Technology                     | Global Info Vision                          |
+| May 25, 2023   | LockBit          | USA             | Arts, Entertainment & Recreation              | Wianno Club                                |
+| May 25, 2023   | Unknown          | USA             | Finance & Insurance                           | Point32Health                              |
+| May 24, 2023   | LockBit          | India           | Manufacturing                                 | Roha                                       |
+| May 24, 2023   | ALPHV            | USA             | Accommodations & Food Services                | The Middleton Group                         |
+| May 24, 2023   | Medusa           | Turkey          | Other                                         | Trabzonspor Football Club                   |
+| May 23, 2023   | Snatch           | Canada          | Healthcare                                    | Canadian Nurses Association                 |
+| May 23, 2023   | Unknown          | India           | Finance & Insurance                           | Insurance Information Bureau of India       |
+| May 22, 2023   | Unknown          | India           | Utilities                                     | Madhya Pradesh Power Management Company Limited (MPPMC) |
+| May 22, 2023   | Royal            | USA             | Healthcare                                    | Clarke County Hospital                      |
+| May 22, 2023   | Unknown          | USA             | Transportation & Warehousing                  | Sysco                                      |
+| May 22, 2023   | 0mega            | France          | Professional, Scientific & Technical Services | Mazars Group                               |
+| May 21, 2023   | BlackByte        | USA             | State & Local Government                      | City of Augusta                            |
+| May 20, 2023   | BlackBasta       | Germany         | Manufacturing                                 | Rheinmetall                                |
+| May 18, 2023   | Unknown          | USA             | State & Local Government                      | Newport News Public Library                |
+| May 18, 2023   | BlackBasta       | USA             | Manufacturing                                 | Viking Coca-Cola                           |
+| May 18, 2023   | Dunghill         | USA             | Manufacturing                                 | Gentex                                     |
+| May 18, 2023   | ALPHV            | South Korea     | Accommodations & Food Services                | Orion Co. Ltd.                             |
+| May 17, 2023   | Unknown          | India           | Healthcare                                    | KD Hospital                                |
+| May 16, 2023   | Royal            | USA             | State & Local Government                      | Curry County                                |
+| May 16, 2023   | Unknown          | USA             | Information & Technology                      | ScanSource                                 |
+| May 15, 2023   | BlackBasta       | United Kingdom  | Finance & Insurance                           | Capita                                     |
 
 
 
