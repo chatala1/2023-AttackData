@@ -289,6 +289,96 @@
 | May 16, 2023   | Royal            | USA             | State & Local Government                      | Curry County                                |
 | May 16, 2023   | Unknown          | USA             | Information & Technology                      | ScanSource                                 |
 | May 15, 2023   | BlackBasta       | United Kingdom  | Finance & Insurance                           | Capita                                     |
+| May 15, 2023    | Unknown          | France          | Manufacturing                                 | Lacroix                                      |
+| May 15, 2023    | Money Message    | USA             | Manufacturing                                 | Pharmerica                                  |
+| May 15, 2023    | Unknown          | USA             | Information & Technology                     |                                              |
+| May 14, 2023    | Unknown          | USA             | Healthcare                                    | Norton Healthcare                           |
+| May 14, 2023    | ALPHV            | USA             | Real Estate                                   | Academy Mortgage                             |
+| May 11, 2023    | BlackBasta       | Switzerland     | Information & Technology                     | ABB                                          |
+| May 11, 2023    | Unknown          | USA             | Healthcare                                    | Richmond University Medical Center           |
+| May 10, 2023    | Unknown          | USA             | Information & Technology                     | Dragos                                       |
+| May 9, 2023     | Unknown          | Canada          | Arts, Entertainment & Recreation              | National Gallery of Canada                   |
+| May 5, 2023     | ALPHV            | Canada          | Information & Technology                     | Constellation Software                        |
+| May 5, 2023     | Medusa           | Australia       | Healthcare                                    | Crown Princess Mary Cancer Centre             |
+| May 4, 2023     | Play             | USA             | State & Local Government                      | City of Lowell                                |
+| May 3, 2023     | Unknown          | USA             | State & Local Government                      | Raleigh Housing Authority                     |
+| May 3, 2023     | Snatch           | USA             | Education                                     | Lawrence Family Development Charter School   |
+| May 2, 2023     | AvosLocker       | USA             | Education                                     | Bluefield University                          |
+| May 2, 2023     | Royal            | USA             | State & Local Government                      | City of Dallas                                |
+| May 1, 2023     | ALPHV            | Australia       | Legal                                         | HWL Ebsworth                                 |
+| May 1, 2023     | Royal            | USA             | Education                                     | Penncrest School                              |
+| May 1, 2023     | Unknown          | Germany         | Information & Technology                     | Bitmarck                                     |
+| April 28, 2023  | Unknown          | USA             | Healthcare                                    | NextGen Healthcare                            |
+| April 27, 2023  | Unknown          | USA             | State & Local Government                      | Spartanburg County                            |
+| April 27, 2023  | ViceSociety      | USA             | Information & Technology                     | CommScope                                    |
+| April 22, 2023  | BlackBasta       | Canada          | Information & Technology                     | Yellow Pages Canada                           |
+| April 19, 2023  | Unknown          | USA             | Healthcare                                    | Point32Health                                |
+| April 19, 2023  | LockBit          | Venezuela       | Finance & Insurance                           | Banco de Venezuela                           |
+| April 17, 2023  | Medusa           | USA             | Education                                     | Uniondale School District                     |
+| April 11, 2023  | Unknown          | USA             | Arts, Entertainment & Recreation              | Incredible Technologies                       |
+| April 10, 2023  | Unknown          | Belgium         | Finance & Insurance                           | SD Worx People Solutions SA                  |
+| April 6, 2023   | Money Message    | Taiwan          | Manufacturing                                 | Micro-Star International                      |
+| April 6, 2023   | Unknown          | USA             | Professional, Scientific & Technical Services | Enzo Biochem                                 |
+| April 1, 2023   | Unknown          | USA             | Education                                     | Jefferson County School System                |
+| March 27, 2023  | Stormous         | Professional, Scientific & Technical Services | CONFIDO                                      |
+| March 25, 2023  | Stormous         | Retail Trade    | The Dubai Gold and Commodities Exchange       |                                              |
+| March 24, 2023  | LockBit          | Professional, Scientific & Technical Services | GP Global                                   |
+| March 24, 2023  | LockBit          | Retail Trade    | Yateem Group                                 |                                              |
+| March 23, 2023  | Cl0p             | United Kingdom  | Transportation & Warehousing                  | Virgin Group                                 |
+| March 23, 2023  | Cl0p             | Transportation & Warehousing                  | DP World                                    |
+| March 23, 2023  | Cl0p             | Other           | Olayan Saudi Holding Company (OSHCO)         |                                              |
+| March 22, 2023  | LockBit          | Legal           | Hadef & Partners LLC                         |                                              |
+| March 21, 2023  | Cl0p             | USA             | Retail Trade                                 | S
+| March 3, 2023   | ViceSociety      | USA             | Education                                     | Lewis & Clark College                        |
+| March 3, 2023   | Play             | USA             | State & Local Government                      | Oakland 311                                  |
+| March 1, 2023   | Snatch           | USA             | Arts, Entertainment & Recreation              | The Metropolitan Opera                      |
+| February 28, 2023| LockBit          | Canada          | Arts, Entertainment & Recreation              | Indigo.ca                                    |
+| February 27, 2023| LockBit          | State & Local Government                      | Ministry of Commerce and Industry (MOCI) of Kuwait |
+| February 26, 2023| LockBit          | USA             | Healthcare                                    | MCNA Dental                                 |
+| February 23, 2023| Unknown          | USA             | Healthcare                                    | Regal Medical Group                         |
+| February 23, 2023| Cl0p             | USA             | Healthcare                                    | Department of Health and Human Services     |
+| February 22, 2023| ALPHV            | USA             | City of Lakewood                              |                                              |
+| February 20, 2023| LockBit          | Netherlands     | Manufacturing                                 | Car Lock Systems                            |
+| February 20, 2023| Royal            | USA             | Education                                     | Dallas School District                      |
+| February 20, 2023| Royal            | USA             | Transportation & Warehousing                  | Unisco                                      |
+| February 18, 2023| ALPHV            | USA             | Manufacturing                                 | Amada Weld Tech                             |
+| February 18, 2023| LockBit          | USA             | Construction                                  | Champion Fire Protection                     |
+| February 18, 2023| LockBit          | France          | Healthcare                                    | ISO steo Lyon                               |
+| February 17, 2023| Unknown          | USA             | Agriculture                                   | Dole                                         |
+| February 17, 2023| Unknown          | USA             | Federal                                       | U.S. Marshals                               |
+| February 17, 2023| BianLian         | South Africa    | Finance & Insurance                           | The Nigerian Economic Summit Group           |
+| February 17, 2023| LockBit          | USA             | Manufacturing                                 | Allied Tools                                |
+| February 16, 2023| LockBit          | Australia       | Transportation & Warehousing                  | Black and White Cabs                        |
+| February 16, 2023| LockBit          | Canada          | Real Estate                                   | Royal LePage                                |
+| February 14, 2023| LockBit          | India           | Manufacturing                                 | SRF                                          |
+| February 13, 2023| DarkBit          | Israel          | Education                                     | Technion Institute of Technology             |
+| February 13, 2023| LockBit          | USA             | State & Local Government                      | Hidalgo County Texas                         |
+| February 12, 2023| LockBit          | France          | Agriculture                                   | Lhermite Agri                               |
+| February 11, 2023| BianLian         | USA             | Agriculture                                   | Danielski Farms Inc.                        |
+| February 10, 2023| Royal            | USA             | Education                                     | Tucson Unified School District               |
+| February 9, 2023 | LockBit          | USA             | Information & Technology                     | PHIHONG TECHNOLOGY CO.                       |
+| February 8, 2023 | Play             | France          | Agriculture                                   | Cave de Beblenheim                          |
+| February 7, 2023 | Unknown          | USA             | Manufacturing                                 | MKS Instruments                              |
+| February 7, 2023 | BlackByte        | USA             | Transportation & Warehousing                  | Penn Power Group                            |
+| February 6, 2023 | LockBit          | India           | Information & Technology                     | TeleApps                                    |
+| February 5, 2023 | ALPHV            | USA             | Accommodations & Food Services                | Five Guys                                   |
+| February 5, 2023 | LockBit          | Indonesia       | Professional, Scientific & Technical Services | BP Lawyers                                  |
+| February 4, 2023 | ALPHV            | USA             | Accommodations & Food Services                | Five Guys                                   |
+| February 4, 2023 | LockBit          | United Kingdom  | Finance & Insurance                           | Nexus Point                                 |
+| February 3, 2023 | LockBit          | USA             | Information & Technology                     | Guardian Analytics                          |
+| February 1, 2023 | Royal            | USA             | Construction                                  | TK Elevator                                 |
+| January 31, 2023 | LockBit          | USA             | Construction                                  | Park Avenue Doors & Hardware                 |
+| January 30, 2023 | LockBit          | USA             | Arts, Entertainment & Recreation              | PBS KVIE                                    |
+| January 29, 2023 | LockBit          | USA             | Healthcare                                    | Arizona Liver Health                         |
+| January 27, 2023 | ALPHV            | USA             | Transportation & Warehousing                  | Ultrabulk                                   |
+| January 26, 2023 | Royal            | USA             | State & Local Government                      | Travis County TX                            |
+| January 25, 2023 | Mallox           | Accommodations & Food Services                | First International Food co Ltd              |
+| January 25, 2023 | Mallox           | Accommodations & Food Services                | First International Food co Ltd              |
+| January 24, 2023 | ALPHV            | USA             | Healthcare                                    | IFPA                                        |
+| January 24, 2023 | LockBit          | France          | Healthcare                                    | elsan.care                                  |
+| January 23, 2023 | ViceSociety      | USA             | Arts, Entertainment & Recreation              | CloudCall                                   |
+| January 22, 2023 | LockBit          | Professional, Scientific & Technical Services | ibb-business-team.de                        |
+| January 22, 2023 | LockBit          | Spain           | Arts, Entertainment & Recreation              | miguelmechanical                            |
 
 
 
