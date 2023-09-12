@@ -379,6 +379,46 @@
 | January 23, 2023 | ViceSociety      | USA             | Arts, Entertainment & Recreation              | CloudCall                                   |
 | January 22, 2023 | LockBit          | Professional, Scientific & Technical Services | ibb-business-team.de                        |
 | January 22, 2023 | LockBit          | Spain           | Arts, Entertainment & Recreation              | miguelmechanical                            |
+| January 21, 2023| BianLian         | Australia       | Professional, Scientific & Technical Services | HRL Technology Group                        |
+| January 21, 2023| FreeCivilian      | Professional, Scientific & Technical Services | gkh.in.ua                                    |
+| January 21, 2023| FreeCivilian      | Professional, Scientific & Technical Services | kyiv city                                   |
+| January 21, 2023| FreeCivilian      | Professional, Scientific & Technical Services | mfa.gov.ua                                  |
+| January 21, 2023| FreeCivilian      | Agriculture     | mon.gov.ua                                   |
+| January 21, 2023| FreeCivilian      | Federal         | motorsich                                   |
+| January 21, 2023| Royal            | USA             | Healthcare                                    | cadmet                                      |
+| January 21, 2023| Royal            | Canada          | Transportation & Warehousing                  | www.pillar.ca                               |
+| January 20, 2023| ViceSociety      | USA             | Education                                     | LAUSD                                       |
+| January 20, 2023| LockBit          | USA             | Other                                         | flatironssolutions                          |
+| January 20, 2023| ViceSociety      | USA             | Education                                     | Monmouth College                            |
+| January 19, 2023| ALPHV            | USA             | Healthcare                                    | NextGen                                     |
+| January 19, 2023| ALPHV            | Australia       | Healthcare                                    | Pharmacare                                  |
+| January 18, 2023| LockBit          | Belgium         | Information & Technology                     | duomed                                      |
+| January 18, 2023| LockBit          | Professional, Scientific & Technical Services | tvk.nl                                      |
+| January 18, 2023| Royal            | USA             | Federal                                       | www.kazcolaw                                |
+| January 17, 2023| Royal            | Australia       | Education                                     | carinya.nsw.edu                             |
+| January 17, 2023| Royal            | Canada          | Construction                                  | living stonintl                              |
+| January 16, 2023| LockBit          | Retail Trade    | M.A. Al-Abdulkarim & Co. Ltd                  |
+| January 16, 2023| LockBit          | Arts, Entertainment & Recreation              | Automobile & Touring Club of the UAE (ATCUAE) |
+| January 16, 2023| Mallox           | Healthcare                                    | El Seif Development                         |
+| January 16, 2023| HiveLeak         | USA             | Other                                         | R C Stevens Construction                     |
+| January 16, 2023| LockBit          | Manufacturing                                 | atcuae.ae                                   |
+| January 16, 2023| LockBit          | Poland          | Federal                                       | ful filment matters.co.uk                    |
+| January 16, 2023| LockBit          | Construction                                  | melody.com.tr                               |
+| January 16, 2023| LockBit          | Brazil          | Arts, Entertainment & Recreation              | politriz.ind.br                             |
+| January 16, 2023| Mallox           | Professional, Scientific & Technical Services | Yayla Enerji Uretim Turizm ve Insaat Ticaret  |
+| January 16, 2023| ViceSociety      | Germany         | Education                                     | University of Duisburg-Essen                |
+| January 15, 2023| Play             | United Kingdom  | Manufacturing                                 | DAYTON PROGRESS                              |
+| January 14, 2023| LockBit          | Malaysia        | Education                                     | matrix schools.edu.my                        |
+| January 14, 2023| Royal            | United Kingdom  | Professional, Scientific & Technical Services | hills-motors                                |
+| January 14, 2023| Royal            | USA             | Accommodations & Food Services                | samuelsseafood                              |
+| January 14, 2023| ViceSociety      | United Kingdom  | Professional, Scientific & Technical Services | TIMco                                       |
+| January 13, 2023| Cl0p             | USA             | Legal                                         | New York City Bar Association                |
+| January 13, 2023| ALPHV            | USA             | Other                                         | Air Comm Corporation                        |
+| January 13, 2023| ALPHV            | Singapore       | Professional, Scientific & Technical Services | Fu Yu Corporation                            |
+| January 13, 2023| ALPHV            | Indonesia       | Information & Technology                     | Liebra Permana                              |
+| January 13, 2023| LockBit          | Thailand        | Manufacturing                                 | fujikura-electronics.co.th                   |
+| January 12, 2023| RansomHouse      | Retail Trade    | Dubai Gold & Commodities Exchange            |
+| January 12, 2023| LockBit          | USA             | Accommodations
 
 
 
