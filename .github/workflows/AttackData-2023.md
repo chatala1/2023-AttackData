@@ -419,6 +419,20 @@
 | January 13, 2023| LockBit          | Thailand        | Manufacturing                                 | fujikura-electronics.co.th                   |
 | January 12, 2023| RansomHouse      | Retail Trade    | Dubai Gold & Commodities Exchange            |
 | January 12, 2023| LockBit          | USA             | Accommodations
+| January 10, 2023| ViceSociety      | Australia       | Manufacturing                                 | Fire Rescue Victoria                         |
+| January 9, 2023 | 0mega            | India           | Healthcare                                    | Aviacode                                     |
+| January 7, 2023 | ALPHV            | USA             | Construction                                  | Buffco Production, Inc.                     |
+| January 6, 2023 | HiveLeak         | USA             | Healthcare                                    | Consulate Health Care                        |
+| January 6, 2023 | Royal            | Agriculture     | btievoluongroup                               |
+| January 6, 2023 | Royal            | Netherlands     | Real Estate                                  | lekhabo                                      |
+| January 6, 2023 | ViceSociety      | Agriculture     | Bay Area Rapid Transit                       |
+| January 6, 2023 | ViceSociety      | Germany         | Professional, Scientific & Technical Services | LetMeRepair                                 |
+| January 5, 2023 | BlackByte        | Canada          | Real Estate                                  | Kansas City Homes                            |
+| January 5, 2023 | Canada           | Professional, Scientific & Technical Services | Nexon Asia Pacific                           |
+| January 5, 2023 | Royal            | Finance & Insurance                          | DSBJ                                         |
+| January 4, 2023 | BlackByte        | Healthcare                                    | CAPMC                                        |
+| January 3, 2023 | Everest          | United Kingdom  | Information & Technology                     |
+| January 3, 2023 | Play             | USA             | Construction                                  | Tarntank Ship Management                    |
 
 
 
