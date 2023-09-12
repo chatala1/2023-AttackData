@@ -152,6 +152,94 @@
 | July 12, 2023   | Qilin            | USA              | Transportation & Warehousing             | Better System Co.                           |
 | July 12, 2023   | Akira            | USA              | Manufacturing                            | A123 Systems                               |
 | July 11, 2023   | 8Base            | USA              | Healthcare                               | Kansas Medical Center LLC                  |
+| July 11, 2023   | 8Base            | Germany          | Healthcare                               | Weitkamp · Hirsch and Kollegen Steuerberatungsgesellschaft mbH |
+| July 11, 2023   | 8Base            | USA              | Education                                | Danbury Public Schools                      |
+| July 11, 2023   | 8Base            | Peru             | Other                                    | Pesquera Diamante S.A.                     |
+| July 11, 2023   | 8Base            | United Arab Emirates | Manufacturing                       | Advanced Fiberglass Industries             |
+| July 10, 2023   | Rhysida          | Italy            | Professional, Scientific & Technical Services | BM Group Polytec S.p.A.                  |
+| July 9, 2023    | Donut            | Italy            | Manufacturing                            | Peroni Pompe                               |
+| July 9, 2023    | NoEscape         | USA              | Manufacturing                            | Castec (Fabritec)                         |
+| July 9, 2023    | Donut            | USA              | Legal                                    | UnitedLex                                  |
+| July 9, 2023    | Donut            | United Kingdom   | Legal                                    | Jacklyn Dawson Solicitors                 |
+| July 9, 2023    | NoEscape         | Netherlands      | Manufacturing                            | Doesburg Components                        |
+| July 9, 2023    | NoEscape         | Belgium          | Healthcare                               | Le CHRSM                                   |
+| July 9, 2023    | Donut            | USA              | Healthcare                               | Montgomery General Hospital                |
+| July 9, 2023    | BianLian         | USA              | Manufacturing                            | Bunn-O-Matic                               |
+| July 7, 2023    | Play             | USA              | Manufacturing                            | Indiana Dimension                          |
+| July 7, 2023    | Play             | Kenya            | State & Local Government                  | Kenya Bureau of Standards                   |
+| July 7, 2023    | Play             | Italy            | Manufacturing                            | Lawer                                      |
+| July 7, 2023    | Play             | Japan            | Retail Trade                             | MUJI Europe Holdings Limited                |
+| July 7, 2023    | Play             | USA              | Information & Technology                | Geneva Software                             |
+| July 7, 2023    | Play             | USA              | Transportation & Warehousing             | Lazer Tow                                  |
+| July 4, 2023    | ALPHV            | USA              | Legal                                    | Duncan Disability Law                      |
+| July 3, 2023    | Cl0p             | USA              | Other                                    | Hornbeck Offshore                           |
+| July 3, 2023    | RansomEXX        | Italy            | Construction                             | DVision Architecture                        |
+| July 3, 2023    | Rhysida          | USA              | Other                                    | Hollywood Forever                           |
+| July 2, 2023    | Cl0p             | USA              | Finance & Insurance                       | NCR                                        |
+| July 1, 2023    | BlackBasta       | USA              | Accommodations & Food Services            | Blount Fine Foods                           |
+| July 1, 2023    | Cl0p             | USA              | Finance & Insurance                       | Encore Capital Group                       |
+| July 1, 2023    | Cl0p             | USA              | Professional, Scientific & Technical Services | Harrington Company                       |
+| July 1, 2023    | LockBit          | Italy            | Utilities                                | Blowtherm                                  |
+| July 1, 2023    | Mallox           | USA              | Retail Trade                             | Ashley Furniture                            |
+| June 30, 2023  | ALPHV            | United Kingdom   | Healthcare                               | Barts Health NHS Trust                     |
+| June 30, 2023  | Cl0p             | South Africa     | Healthcare                               | Clicks Group Limited                       |
+| June 29, 2023  | Cl0p             | USA              | Finance & Insurance                       | FIS Global                                 |
+| June 29, 2023  | LockBit          | Australia         | Manufacturing                            | AME                                        |
+| June 29, 2023  | Rhysida          | United Kingdom   | Education                                | Enfield Grammar School                     |
+| June 28, 2023  | BianLian         | Egypt            | Finance & Insurance                       | Misr Life Insurance                        |
+| June 28, 2023  | BianLian         | Bahrain          | Manufacturing                            | Arab Shipbuilding and Repair Yard          |
+| June 28, 2023  | BianLian         | USA              | Legal                                    | Chadwick, Washington, Moriarty, Elmore & Bunn |
+| June 23, 2023   | ALPHV            |                 | Finance & Insurance                      | National Instiutional Facilitation Technologies   |
+| June 23, 2023   | Play             | USA              | Other                                   | Dancie Perugini Ware Public Relations            |
+| June 23, 2023   | Play             | USA              | Construction                            | Hill International                              |
+| June 23, 2023   | Qilin            | Japan            | Construction                            | Daiwa House Industry                            |
+| June 18, 2023   | LockBit          | Peru             | Construction                            | TDM Peru                                        |
+| June 16, 2023   | ALPHV            | United Arab Emirates | Information & Technology            | Alpha Data                                      |
+| June 16, 2023   | BlackByte        | USA              | Healthcare                               | Kisco Senior Living                             |
+| June 16, 2023   | LockBit          | Spain            | State & Local Government                 | Municipality of Cangas                          |
+| June 16, 2023   | RansomHouse      | Spain            | Finance & Insurance                      | Prada Gayoso                                    |
+| June 16, 2023   | RansomHouse      | Spain            | Other                                    | Roberto Verino Difusion                        |
+| June 15, 2023   | BlackBasta       | United Kingdom   | Manufacturing                            | Marchant Schmidt                                |
+| June 15, 2023   | BlackByte        | Netherlands      | Transportation & Warehousing             | FIEGE Nederland                                  |
+| June 15, 2023   | BlackByte        | USA              | Accommodations & Food Services           | Nebraskaland                                    |
+| June 15, 2023   | BlackByte        | USA              | Manufacturing                            | The Texwipe                                     |
+| June 15, 2023   | BlackByte        | USA              | Manufacturing                                 | Yamaha Corporation of America                   |
+| June 15, 2023   | LockBit          | USA              | Other                                         | Baton Rouge Metropolitan Airport                |
+| June 15, 2023   | LockBit          | USA              | Manufacturing                                 | Stainless Tanks and Equipment                   |
+| June 15, 2023   | Medusa           | USA              | Education                                     | Salem Community Schools                         |
+| June 14, 2023   | ALPHV            | United Kingdom   | Healthcare                                    | New Horizons Medical                            |
+| June 14, 2023   | LockBit          | India            | Healthcare                                    | Granules India                                  |
+| June 14, 2023   | LockBit          | USA              | Construction                                  | Prime Retail Services                           |
+| June 14, 2023   | LockBit          | Canada           | Education                                     | Northern Ontario School of Medicine (NOSM) University |
+| June 14, 2023   | RansomHouse      | China            | Professional, Scientific & Technical Services | Wison Engineering                               |
+| June 13, 2023   | Unknown          | Germany          | Healthcare                                    | Kaiserslautern University of Applied Sciences   |
+| June 12, 2023   | Rhysida          | Martinique       | State & Local Government                      | Martinique                                      |
+| June 12, 2023   | Rhysida          | Chile            | Other                                         | Army of Chile                                   |
+| June 10, 2023   | Akira            | USA              | Accommodations & Food Services                | Caruso                                          |
+| June 10, 2023   | Akira            | USA              | State & Local Government                      | Adams County Communications Center              |
+| June 10, 2023   | ALPHV            | Mexico           | Accommodations & Food Services                | Coca-Cola Femsa                                 |
+| June 10, 2023   | BlackBasta       | Switzerland      | Other                                         | Tag Aviation                                    |
+| June 10, 2023   | ALPHV            | Australia        | Finance & Insurance                           | FIIG                                            |
+| June 10, 2023   | Daixin           | USA              | Healthcare                                    | Columbus Regional Healthcare System             |
+| June 10, 2023   | Royal            | USA              | Manufacturing                                 | Tachi-S Engineering USA                         |
+| June 10, 2023   | Royal            | USA              | Education                                     | Penncrest School District                       |
+| June 10, 2023   | Qilin            | Argentina        | Accommodations & Food Services                | Del Bono Hotel                                  |
+| June 9, 2023    | BianLian         | USA              | Healthcare                                    | Aelius MD Medical Systems                      |
+| June 9, 2023    | BlackBasta       | USA              | Manufacturing                                 | Tower Fasteners                                 |
+| June 9, 2023    | Sweden           | State & Local Government | Marstrand                             |
+| June 9, 2023    | LockBit          | Singapore        | Manufacturing                                 | Cortina Watch                                   |
+| June 9, 2023    | Medusa           | USA              | Healthcare                                    | Kramer Enterprises                              |
+| June 8, 2023    | BlackByte        | USA              | Utilities                                     | Multistack                                      |
+| June 7, 2023    | LockBit          | Australia        | Transportation & Warehousing                  | Cross City Tunnel                               |
+| June 6, 2023    | KaraKurt         | USA              | Healthcare                                    | Beacon ABA Services                             |
+| June 6, 2023    | LockBit          | Oman             | Other                                         | Towell Group                                    |
+| June 6, 2023    | Medusa           | Argentina        | Federal                                       | National Securities Commission                 |
+| June 5, 2023    | Snatch           | United Kingdom   | Manufacturing                                 | EliTech                                         |
+| June 5, 2023    | Snatch           | United Kingdom   | Professional, Scientific & Technical Services | Briars Group                                    |
+| June 5, 2023    | Snatch           | USA              | Healthcare                                    | Mount Desert Hospital                           |
+| June 4, 2023    | BianLian         | India            | Manufacturing                                 | Aarti Industries Ltd.                           |
+| June 4, 2023    | BianLian         | USA              | Legal                                         | Chadwick, Washington, Moriarty, Elmore & Bunn   |
+
 
 
 
