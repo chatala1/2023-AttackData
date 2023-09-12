@@ -102,6 +102,62 @@
 | July 12, 2023   | Qilin            | USA              | Transportation & Warehousing             | Better System Co.                           |
 | July 12, 2023   | Akira            | USA              | Manufacturing                            | A123 Systems                               |
 | July 11, 2023   | 8Base            | USA              | Healthcare                               | Kansas Medical Center LLC                  |
+| July 27, 2023   | ALPHV            | Italy            | Finance & Insurance                     | CF Assicurazioni                            |
+| July 27, 2023   | NoEscape         | Canada           | Manufacturing                           | Addison Electronique                        |
+| July 27, 2023   | Medusa           | Canada           | Construction                            | Insulcana Contracting                      |
+| July 27, 2023   | Akira            | USA              | Professional, Scientific & Technical Services | Frost and Sullivan                     |
+| July 27, 2023   | Rhysida          | Germany          | Manufacturing                            | Eska                                       |
+| July 27, 2023   | BianLian         | Italy            | Manufacturing                            | CMC Marine                                 |
+| July 27, 2023   | Rhysida          | Iran             | Education                                | Rouzbeh Educational Complex                |
+| July 27, 2023   | BianLian         | France           | Healthcare                               | Chu de Rennes                              |
+| July 25, 2023   | Akira            | USA              | Accommodations & Food Services           | El Milagro                                 |
+| July 25, 2023   | Play             | Mexico           | Manufacturing                            | Ferre Barniedo                             |
+| July 25, 2023   | Play             | Spain            | Other                                    | Grupo MH                                   |
+| July 25, 2023   | Play             | Netherlands      | Utilities                                | Primoteq                                  |
+| July 25, 2023   | ALPHV            | USA              | Manufacturing                            | Republic Steel                             |
+| July 25, 2023   | Black Suit       | United Kingdom   | Retail Trade                             | IT Luggage                                 |
+| July 25, 2023   | BlackBasta       | USA              | Healthcare                               | BionPharma                                 |
+| July 25, 2023   | Akira            | USA              | Retail Trade                             | Charles and Colvard                        |
+| July 25, 2023   | ALPHV            | USA              | Accommodations & Food Services           | Nebraskaland                               |
+| July 25, 2023   | Play             | Canada           | Utilities                                | John Mulder Heatting and Air Conditioning |
+| July 25, 2023   | Stormous         | USA              | Arts, Entertainment & Recreation         | Dynamite                                   |
+| July 25, 2023   | LockBit          | USA              | Manufacturing                            | Ridgeview Industries                        |
+| July 25, 2023   | Medusa           | Egypt            | Arts, Entertainment & Recreation         | The Sindbad Club                           |
+| July 25, 2023   | Rhysida          | Scotland         | Education                                | University of the West of Scotland        |
+| July 25, 2023   | 8Base            | Portugal         | Arts, Entertainment & Recreation         | Crowd                                      |
+| July 25, 2023   | Akira            | USA              | Professional, Scientific & Technical Services | Becht Engineering                        |
+| July 25, 2023   | Play             | Germany          | Manufacturing                            | Scharcho Elektronik                        |
+| July 25, 2023   | 8Base            | South Africa     | Information & Technology                | DV8 Technology Group                       |
+| July 25, 2023   | NoEscape         | Italy            | Manufacturing                            | Rampi                                      |
+| July 25, 2023   | Akira            | USA              | Professional, Scientific & Technical Services | SMB                                       |
+| July 23, 2023   | Akira            | USA              | Manufacturing                            | Handi Quilter                              |
+| July 18, 2023   | Cl0p             | USA              | Other                                    | AACOM                                      |
+| July 18, 2023   | LockBit          | Healthcare        | Academia Institute                        |
+| July 18, 2023   | Cl0p             | USA              | Information & Technology                | Bluefin                                    |
+| July 18, 2023   | NoEscape         | France           | Education                                | Acomen                                    |
+| July 18, 2023   | Cl0p             | USA              | Other                                    | Allegiant Air                              |
+| July 18, 2023   | LockBit          | Healthcare        | Berg Life Science                         |
+| July 18, 2023   | United Kingdom   | Manufacturing   | Brockhouse Group                           |
+| July 18, 2023   | 8Base            | USA              | Finance & Insurance                      | CashCall                                   |
+| July 17, 2023   | Switzerland      | Construction     | arb Architekten                            |
+| July 17, 2023   | ALPHV            | Austria          | Construction                             | Baumschlager Hutter Partners               |
+| July 14, 2023   | Cl0p             | USA              | Healthcare                               | Arietis Health                             |
+| July 14, 2023   | NoEscape         | United Kingdom   | Education                                | Burton and South Derbyshire College       |
+| July 13, 2023   | BianLian         | India            | Real Estate                              | ATS Infrastructure                         |
+| July 13, 2023   | ALPHV            | USA              | Healthcare                               | Amber Court                                |
+| July 13, 2023   | ALPHV            | Argentina         | Information & Technology                  | Algeiba                                  |
+| July 13, 2023   | Cl0p             | USA              | Information & Technology                  | Aspen Technology                          |
+| July 13, 2023   | 8Base            | France           | Manufacturing                             | ANL Packaging                              |
+| July 13, 2023   | 8Base            | USA              | Other                                     | BTU                                      |
+| July 12, 2023   | Qilin            | USA              | Transportation & Warehousing             | Better System Co.                           |
+| July 12, 2023   | Akira            | USA              | Manufacturing                            | A123 Systems                               |
+| July 11, 2023   | 8Base            | USA              | Healthcare                               | Kansas Medical Center LLC                  |
+
+
+
+
+
+
 
 
 
