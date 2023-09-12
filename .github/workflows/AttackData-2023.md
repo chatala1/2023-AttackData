@@ -429,8 +429,8 @@
 | January 6, 2023 | ViceSociety      | Germany         | Professional, Scientific & Technical Services | LetMeRepair                                 |
 | January 5, 2023 | BlackByte        | Canada          | Real Estate                                  | Kansas City Homes                            |
 | January 5, 2023 | Canada           | Professional, Scientific & Technical Services | Nexon Asia Pacific                           |
-| January 5, 2023 | Royal            | Finance & Insurance                          | DSBJ                                         |
-| January 4, 2023 | BlackByte        | Healthcare                                    | CAPMC                                        |
+| January 5, 2023 | Royal            | Canada          |  Finance & Insurance                          | DSBHealthcareJ
+| January 4, 2023 | BlackByte        |                 | Healthcare                                    | CAPMC
 | January 3, 2023 | Everest          | United Kingdom  | Information & Technology                     |
 | January 3, 2023 | Play             | USA             | Construction                                  | Tarntank Ship Management                    |
 
