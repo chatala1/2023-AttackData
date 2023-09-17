@@ -1252,8 +1252,557 @@
 | September 11, 2022 | LockBit | Canada | State & Local Government | Hamiota |
 | September 9, 2022 | LockBit | Thailand | Retail Trade | DCash professional |
 | September 9, 2022 | LockBit | Construction | KISAN |
+| September 9, 2022  | LockBit | Other | Kommunitat Diakonissenhaus Riehen |
+| September 9, 2022  | LockBit | Retail Trade | LA CALERA |
+| September 9, 2022  | LockBit | Belgium | Education | Kortrijkse RIJSCHOOL |
+| September 9, 2022  | LockBit | Japan | Construction | MARUGO FOUNDATION CORP |
+| September 8, 2022   | BlackBasta | Other | MGS |
+| September 7, 2022  | BlackBasta | USA | Construction | EMEinc. |
+| September 7, 2022  | BlackBasta | USA | Professional, Scientific & Technical Services | LAWRENCED.ROHLFING,INC.CPC |
+| September 7, 2022  | BlackBasta | USA | Other | SHI |
+| September 7, 2022  | LockBit | Real Estate | House hunters |
+| September 7, 2022  | LockBit | Accommodations & Food Services | MARCO POLO |
+| September 7, 2022  | LockBit | Information & Technology | METAAGE |
+| September 7, 2022  | LockBit | Manufacturing | Misumi E.A. HK Limited |
+| September 7, 2022  | RagnarLocker | France | Other | Air Portugal |
+| September 6, 2022  | HiveLeak | USA | Information & Technology | Cal-Ore |
+| September 6, 2022  | LockBit | Brazil | Accommodations & Food Services | GAV resorts |
+| September 6, 2022  | LockBit | USA | Accommodations & Food Services | La Fonda |
+| September 5, 2022  | BlackBasta | USA | Retail Trade | Augusta Co-op Farm Bureau, Inc |
+| September 5, 2022  | BlackBasta | Belgium | Other | CleanTech Flanders |
+| September 5, 2022  | BlackBasta | Healthcare | Psico-sociale |
+| September 5, 2022  | BlackByte | Brazil | Other | SpeedBuster |
+| September 5, 2022  | LockBit | Information & Technology | DIVULTEC |
+| September 5, 2022  | LockBit | Brazil | Manufacturing | Eneva |
+| September 5, 2022  | LockBit | Manufacturing | Finnco packing |
+| September 5, 2022  | LockBit | Italy | Agriculture | KAMUT |
+| September 5, 2022  | LockBit | Belgium | Finance & Insurance | Monnens & Partners BVBA |
+| September 5, 2022  | LockBit | Germany | Manufacturing | PDH PUR Design u. |
+| September 5, 2022  | LockBit | Italy | State & Local Government | Polizia Municipale |
+| September 5, 2022  | LockBit | Germany | Construction | SBR |
+| September 5, 2022  | LockBit | Arts, Entertainment & Recreation | Sport City |
+| September 4, 2022  | BlackBasta | USA | Construction | C2o limited inc. |
+| September 4, 2022  | BlackBasta | USA | Construction | CPL Architectur Engineering Planing |
+| September 4, 2022  | LockBit | Retail Trade | Flores Funza |
+| September 4, 2022  | LockBit | USA | Retail Trade | Xtreme Helmets |
+| September 4, 2022  | ViceSociety | USA | Education | Elmbrook schools |
+| September 3, 2022  | BianLian | USA | Retail Trade | Baer's Furniture |
+| September 3, 2022  | BianLian | USA | Arts, Entertainment & Recreation | Infinity VR Games |
+| September 3, 2022  | RagnarLocker | Brazil | Education | National Education Development fund |
+| September 2, 2022  | HiveLeak | Manufacturing | Eurocell |
+| September 2, 2022  | LockBit | USA | Construction | Peak |
+| September 2, 2022  | Quantum | Dominican Republic | State & Local Government | Instituto Agrario Dominicano |
+| September 2, 2022  | RagnarLocker | Other | TAP Air Portugal |
+| September 1, 2022  | BlackByte | India | Other | Allan Smith Engineering Pvt. Ltd |
+| September 1, 2022  | Cheers | USA | Arts, Entertainment & Recreation | The Zone |
+| September 1, 2022  | USA | Healthcare | Monarch |
+| September 1, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Harrington & Smith |
+| September 1, 2022  | LockBit | Utilities | Solidia Technologies |
+| September 1, 2022  | Quantum | India | Other | Carrier Midea |
+| September 1, 2022  | ViceSociety | USA | Education | Moon Area School District |
+| August 31, 2022  | HiveLeak | USA | Healthcare | NCG Medical |
+| August 31, 2022  | LockBit | USA | Finance & Insurance | Meiji Yasuda America Inc |
+| August 31, 2022  | RagnarLocker | USA | Other | Huge drama for Tap Air Portugal |
+| August 31, 2022  | RagnarLocker | United Kingdom | Finance & Insurance | Smith Brothers Insurance LLC. |
+| August 30, 2022  | BianLian | India | Information & Technology | 4CRisk.ai Software Pvt Ltd |
+| August 30, 2022  | BianLian | United Kingdom | Manufacturing | captec-group limited |
+| August 30, 2022  | BianLian | USA | Other | Community Dental Partners |
+| August 30, 2022  | BianLian | USA | Healthcare | Family Services center |
+| August 30, 2022  | BianLian | Dominican Republic | Healthcare | Laboratorios Magnachem International |
+| August 30, 2022  | BianLian | Australia | Accommodations & Food Services | Ramada Hervey Bay Hotel Resort |
+| August 30, 2022  | BianLian | USA | Arts, Entertainment & Recreation | WWAY-TV, LLC |
+| August 30, 2022  | Cuba | State & Local Government | skupstina |
+| August 30, 2022  | Everest | United Kingdom | Arts, Entertainment & Recreation | GOV Brazil |
+| August 29, 2022  | ALPHV | Canada | Retail Trade | Home improvement store |
+| August 29, 2022  | ALPHV | USA | Other | Justman Packaging & Display |
+| August 29, 2022  | ALPHV | Germany | Finance & Insurance | Saller Unternehmensgruppe |
+| August 29, 2022  | BianLian | USA | Other | Advance Corporation |
+| August 29, 2022  | BianLian | USA | Other | International Custom Controls |
+| August 29, 2022  | BianLian | United Kingdom | Accommodations & Food Services | Rudman |
+| August 29, 2022  | BianLian | United Kingdom | Education | Spalding Grammar School |
+| August 29, 2022  | BianLian | USA | Construction | The Preston Partnership LLC |
+| August 29, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Currier Law Offices LLC |
+| August 28, 2022  | BlackByte | United Kingdom | Professional, Scientific & Technical Services | Grande Stevens International |
+| August 28, 2022  | BlackByte | France | Manufacturing | Torin Drive |
+| August 28, 2022  | LockBit | Spain | Manufacturing | Capsa Packaging |
+| August 28, 2022  | LockBit | USA | Other | Goodwill |
+| August 28, 2022  | LockBit | Other | Grupo AccionPlus |
+| August 28, 2022  | LockBit | Canada | Retail Trade | Spécialités Y G Ltée |
+| August 28, 2022  | LockBit | Brazil | Information & Technology | upLexis |
+| August 26, 2022  | LockBit | USA | Construction | American Tile & Stone |
+| August 26, 2022  | LockBit | USA | Accommodations & Food Services | Canteen |
+| August 26, 2022  | LockBit | Italy | Healthcare | Centro Riabilitativo don Serafino Ronchi |
+| August 26, 2022  | LockBit | Other | Cenviro Sdn. Bhd. |
+| August 26, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Drapery Concepts |
+| August 26, 2022  | LockBit | Healthcare | Galenica (Laboratoires Pharmaceutiques Galenica) |
+| August 26, 2022  | LockBit | Accommodations & Food Services | Holiday Inn Istanbul - Kadikoy |
+| August 26, 2022  | LockBit | USA | Professional, Scientific & Technical Services | KKCS |
+| August 26, 2022  | LockBit | USA | Construction | Lenax Construction Services, Inc. |
+| August 26, 2022  | LockBit | USA | Information & Technology | Micro Depot |
+| August 26, 2022  | LockBit | USA | Construction | Perteet Inc |
+| August 26, 2022  | LockBit | Transportation & Warehousing | Sport Lavit Sportmedische Groothandel |
+| August 26, 2022  | LockBit | USA | Other | St John Vianney Catholic Church |
+| August 26, 2022  | LockBit | Germany | Accommodations & Food Services | STA travels |
+| August 26, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Steve Silva |
+| August 26, 2022  | LockBit | Information & Technology | ThinInfra B.V. |
+| August 26, 2022  | LockBit | USA | Manufacturing | Tru-Fab Technology Inc |
+| August 25, 2022  | LockBit | France | Healthcare | Sud-Francilien Hospital |
+| August 25, 2022  | HiveLeak | France | Other | Altice International |
+| August 25, 2022  | LockBit | Professional, Scientific & Technical Services | Growag Feuerwehrtechnik AG |
+| August 25, 2022  | ViceSociety | United Kingdom | Education | Frances King School of English |
+| August 25, 2022  | ViceSociety | United Kingdom | Education | Lampton school |
+| August 24, 2022  | BlackByte | USA | Retail Trade | GMX Mail |
+| August 24, 2022  | Unknown | Information & Technology | Detego GmbH |
+| August 24, 2022  | United Kingdom | Professional, Scientific & Technical Services | CMZ UK Ltd |
+| August 24, 2022  | United Kingdom | Construction | Sheppard Robson |
+| August 24, 2022  | Canada | Utilities | PlanET Biogas Solutions |
+| August 24, 2022  | Accommodations & Food Services | Sando&Co |
+| August 24, 2022  | Everest | Agriculture | Olamgroup |
+| August 24, 2022  | HiveLeak | USA | Healthcare | Baton Rouge General |
+| August 24, 2022  | RansomEXX | Canada | Manufacturing | Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!) |
+| August 23, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Barry W Dowd Attorney At Law |
+| August 23, 2022  | LockBit | USA | Healthcare | Destination Hope Treatment Center |
+| August 23, 2022  | LockBit | USA | Information & Technology | Orion Innovation |
+| August 23, 2022  | LockBit | Australia | Professional, Scientific & Technical Services | Ruffin Susan |
+| August 23, 2022  | LockBit | Finland | Manufacturing | Robit Plc |
+| August 23, 2022  | LockBit | Italy | Professional, Scientific & Technical Services | Studio Barba |
+| August 23, 2022  | LockBit | USA | Professional, Scientific & Technical Services | The Pinjuh Law Firm LLC |
+| August 23, 2022  | Lorenz | United Kingdom | Other | Universal Engine Power Ltd |
+| August 23, 2022  | Quantum | USA | Professional, Scientific & Technical Services | Moskowitz, Mandell Salim, P.A. |
+| August 23, 2022  | RagnarLocker | Utilities | DESFA - Pipeline company LEAK |
+| August 23, 2022  | RagnarLocker | USA | Construction | the action lab Announcement. Action Lab File-tree |
+| August 22, 2022  | Unknown | Brazil | Information & Technology | Ativy Digital |
+| August 22, 2022  | LockBit | USA | Retail Trade | North west pipe |
+| August 22, 2022  | Lorenz | USA | Other | Northern Contours Inc. |
+| August 21, 2022  | Cl0p | USA | Information & Technology | Applexus Technologies Pvt. Ltd |
+| August 21, 2022  | ViceSociety | USA | Healthcare | Family Medicine Center |
+| August 21, 2022  | ViceSociety | USA | Healthcare | OnePoint Patient Care |
+| August 20, 2022  | IceFire | Healthcare | 37sur |
+| August 20, 2022  | IceFire | Information & Technology | Aman Plaza SKIF Enterprises Private Limited |
+| August 20, 2022  | IceFire | USA | Information & Technology | Best Servers LLC |
+| August 20, 2022  | IceFire | United Arab Emirates | Information & Technology | DirectFN |
+| August 20, 2022  | IceFire | Information & Technology | Kod hosting |
+| August 20, 2022  | IceFire | Information & Technology | Wyden |
+| August 20, 2022  | IceFire | India | Education | Krishna University |
+| August 19, 2022  | HiveLeak | USA | Information & Technology | Reiter Affiliated Companies |
+| August 19, 2022  | Quantum | USA | Other | Shaw & Slavsky Inc |
+| August 19, 2022  | RagnarLocker | Other | Hellenic Gas Transmission System Operator S.A. |
+| August 19, 2022  | ViceSociety | USA | Other | ProSol Solar Panel Cleaning & Pigeon Control |
+| August 18, 2022  | Cheers | United Kingdom | Professional, Scientific & Technical Services | Great British Finance Ltd |
+| August 18, 2022  | HiveLeak | United Kingdom | Education | Wootton Upper School |
+| August 18, 2022  | LockBit | United Kingdom | Other | Entust |
+| August 18, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Mega solutions |
+| August 18, 2022  | LockBit | United Kingdom | Healthcare | Traveldoc |
+| August 18, 2022  | LockBit | India | Transportation & Warehousing | Wabtec Corporation |
+| August 18, 2022  | ViceSociety | Spain | State & Local Government | Consejo Superior de |
+| August 17, 2022  | ALPHV | United Kingdom | Information & Technology | Accelya |
+| August 17, 2022  | BlackByte | USA | Finance & Insurance | Apex Capital Corp |
+| August 17, 2022  | Snatch | USA | Education | Stratford University |
+| August 16, 2022  | LockBit | Other | Al-Taadhod Group |
+| August 16, 2022  | LockBit | USA | Arts, Entertainment & Recreation | Osprey Video |
+| August 16, 2022  | LockBit | USA | Manufacturing | PORCELANOSA Houston |
+| August 16, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Tier 1 Techs, Inc. |
+| August 16, 2022  | ViceSociety | Spain | Healthcare | Vygon España |
+| August 15, 2022  | Unknown | USA | Legal | Cohen Tauber Spievack & Wagner, PC |
+| August 14, 2022  | HiveLeak | USA | Manufacturing | Tri State HVAC Equipment LLP |
+| August 13, 2022  | ALPHV | USA | Healthcare | Fast peace health |
+| August 13, 2022  | Cl0p | USA | Information & Technology | Applexus Technologies |
+| August 13, 2022  | Cl0p | USA | Retail Trade | ENS Security Miami | Professional Security System Wholesaler |
+| August 13, 2022  | Cl0p | USA | Professional, Scientific & Technical Services | Ferran Air Conditioning, Electrical & Plumbing |
+| August 13, 2022  | Cl0p | USA | Education | Fort Sumner Municipal Schools |
+| August 13, 2022  | Cl0p | France | Professional, Scientific & Technical Services | Latournerie Wolfrom Avocats |
+| August 13, 2022  | Cl0p | United Kingdom | Other | MART 7 |
+| August 13, 2022  | Cl0p | USA | Other | Newcourse Communications Inc |
+| August 13, 2022  | Cl0p | USA | Retail Trade | Orbit Electric Inc |
+| August 13, 2022  | Cl0p | Canada | Information & Technology | Pricedex Software Inc |
+| August 13, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Becker Law Office Injury Lawyers |
+| August 13, 2022  | LockBit | India | Professional, Scientific & Technical Services | Best Tax Filer India |
+| August 13, 2022  | LockBit | USA | Manufacturing | Century Aluminum |
+| August 13, 2022  | LockBit | United Kingdom | Professional, Scientific & Technical Services | Pinnick Lewis (Chartered Certified Accountants) Edgware |
+| August 13, 2022  | LockBit | USA | Finance & Insurance | VS Associates Inc. |
+| August 10, 2022  | LockBit | USA | Education | Oklahoma City University |
+| August 10, 2022  | LockBit | USA | Education | Whitworth University |
+| August 9, 2022  | Cheers | Professional, Scientific & Technical Services | Akkascpa |
+| August 9, 2022  | Cheers | Finance & Insurance | An Insurance Company -Paid |
+| August 9, 2022  | Germany | Other | ISTA International GmbH |
+| August 9, 2022  | LockBit | USA | Healthcare | American Heart Association |
+| August 9, 2022  | lv | Accommodations & Food Services | Valverde Hotel - Relais & Chateaux |
+| August 8, 2022  | ALPHV | United Kingdom | Construction | Artic Building Services |
+| August 8, 2022  | Quantum | USA | Information & Technology | Freyr Solutions |
+| August 7, 2022  | LockBit | Other | AB Birštono sanatorija „Versmė" |
+| August 7, 2022  | LockBit | Germany | Manufacturing | Ring-Plastik Pechler GmbH |
+| August 6, 2022  | BlackBasta | USA | Healthcare | Blairex Laboratories, Inc. |
+| August 6, 2022  | BlackBasta | Germany | Retail Trade | Börner + Co. KG |
+| August 6, 2022  | BlackBasta | USA | Other | Cremo Company, LLC |
+| August 6, 2022  | BlackBasta | Germany | Manufacturing | Grohmann Aluworks GmbH & Co |
+| August 6, 2022  | BlackBasta | Professional, Scientific & Technical Services | Jakob Becker |
+| August 6, 2022  | BlackBasta | USA | Finance & Insurance | Love, Barnes & McKew Insurance Adjusters |
+| August 6, 2022  | BlackBasta | USA | Construction | Montrose Environmental Group, Inc. |
+| August 6, 2022  | BlackBasta | USA | Healthcare | The O'Regan |
+| August 6, 2022  | BlackBasta | USA | Finance & Insurance | Royal business bank |
+| August 6, 2022  | BlackBasta | Canada | Construction | Trade-Mark Industrial Inc |
+| August 6, 2022  | BlackBasta | USA | Other | Total Transportation & Distribution |
+| August 6, 2022  | BlackBasta | Germany | Manufacturing | UNIWELL Rohrsysteme GmbH & Co |
+| August 6, 2022  | BlackBasta | USA | Retail Trade | Wallwork Truck Center |
+| August 6, 2022  | BlackBasta | Germany | Construction | Wenzel + Wenzel GmbH |
+| August 6, 2022  | BlackBasta | USA | Retail Trade | Wilks Tire & Battery Service |
+| August 6, 2022  | BlackBasta | USA | Construction | Young & Pratt |
+| August 6, 2022  | Cl0p | Canada | Information & Technology | Pricedex Software Inc |
+| August 6, 2022  | LockBit | USA | Finance & Insurance | Hatcher Insurance, Inc. |
+| August 6, 2022  | LockBit | Canada | Manufacturing | New West Metals Inc. |
+| August 6, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Trial Pro, P.A. |
+| August 6, 2022  | LockBit | Other | Unimasters Logistics |
+| August 6, 2022  | LockBit | USA | Education | Window Rock High School |
+| August 5, 2022  | Onyx | USA | State & Local Government | Borough of Union Beach |
+| August 4, 2022  | ALPHV | Construction | AD Consulting Group |
+| August 4, 2022  | HiveLeak | India | Real Estate | ENN Group |
+| August 4, 2022  | lv | India | Accommodations & Food Services | STTLK |
+| August 4, 2022  | lv | Germany | Construction | WARTSILA DATA - ATTENTION |
+| August 4, 2022  | Quantum | Israel | Manufacturing | BEESENSE |
+| August 4, 2022  | Quantum | Canada | Retail Trade | Liftow LTD |
+| August 3, 2022  | ALPHV | India | Education | AIIM |
+| August 3, 2022  | USA | Healthcare | Fitzgibbon Hospital (USA) |
+| August 3, 2022  | USA | Other | Trib Total Media (USA) |
+| August 2, 2022  | ALPHV | USA | Construction | MarioSinacola |
+| August 2, 2022  | LockBit | Other | Casa pells |
+| August 2, 2022  | LockBit | Australia | Manufacturing | Kangaroo |
+| August 2, 2022  | LockBit | Australia | Other | Obrein group Australia |
+| August 2, 2022  | LockBit | Italy | Other | Tek nox |
+| August 2, 2022  | RagnarLocker | USA | Information & Technology | Puma Biotechnology - decided to allow Leaks |
+| August 2, 2022  | REvil | USA | Manufacturing | Doosan Group |
+| August 1, 2022  | LockBit | USA | Transportation & Warehousing | Pre flooring |
+| August 1, 2022  | LockBit | USA | Construction | S choil |
+| August 1, 2022  | LockBit | Retail Trade | Shopper 360 |
+| August 1, 2022  | Onyx | Other | ARISA CORREDORES DE SEGUROS |
+| July 31, 2022  | LockBit | USA | Other | Emun works |
+| July 31, 2022  | LockBit | Spain | State & Local Government | Get |
+| July 31, 2022  | LockBit | USA | Healthcare | Vytelle |
+| July 31, 2022  | lv | India | Manufacturing | Bafna Group |
+| July 29, 2022  | ALPHV | Utilities | Creos Luxembourg |
+| July 29, 2022  | LockBit | France | Manufacturing | Autoliv |
+| July 29, 2022  | Lorenz | USA | Construction | Fandeli |
+| July 29, 2022  | lv | Healthcare | Hong-kong Special Care Dentistry Association Limited |
+| July 28, 2022  | ALPHV | Brazil | Manufacturing | Herc |
+| July 28, 2022  | ALPHV | USA | Construction | John A. Bodziak Architect AIA |
+| July 28, 2022  | ALPHV | India | Other | Tnq |
+| July 28, 2022  | LockBit | Professional, Scientific & Technical Services | ARM Assist |
+| July 28, 2022  | LockBit | Education | Correo Unir |
+| July 28, 2022  | LockBit | Spain | Education | Fruca |
+| July 28, 2022  | USA | Other | Coarc |
+| July 27, 2022  | HiveLeak | Brazil | Manufacturing | Weidmueller |
+| July 27, 2022  | LockBit | Canada | Retail Trade | Group Helios |
+| July 27, 2022  | LockBit | Belgium | Retail Trade | Mald Gem |
+| July 27, 2022  | lv | Italy | Professional, Scientific & Technical Services | Studio Teruzzi |
+| July 26, 2022  | Everest | India | Finance & Insurance | FederalBank/Fedfina.part4 |
+| July 26, 2022  | HiveLeak | USA | Other | Empress EMS |
+| July 26, 2022  | LockBit | Manufacturing | Cheung Woh |
+| July 26, 2022  | LockBit | USA | Education | Sieam |
+| July 26, 2022  | LockBit | Other | YMA Universe |
+| July 26, 2022  | Onyx | Canada | Construction | Artistic Stairs & Railings |
+| July 26, 2022  | Onyx | Other | Baltholding OÜ |
+| July 26, 2022  | Onyx | Brazil | Accommodations & Food Services | CUCA FRESCA |
+| July 26, 2022  | Onyx | Other | WAYAN NATURAL WEAR |
+| July 25, 2022  | Cl0p | India | Information & Technology | Applexus |
+| July 25, 2022  | LockBit | Italy | Finance & Insurance | Agenzia entrate |
+| July 25, 2022  | LockBit | Other | Eclipse |
+| July 25, 2022  | LockBit | Other | Ginko |
+| July 25, 2022  | LockBit | USA | Accommodations & Food Services | Legacy |
+| July 25, 2022  | LockBit | United Arab Emirates | Construction | Over seas |
+| July 25, 2022  | lv | Construction | Rayan hanley |
+| July 25, 2022  | lv | Germany | Manufacturing | Wartsila |
+| July 25, 2022  | REvil | USA | Information & Technology | Opti Pro Erp |
+| July 24, 2022  | ALPHV | India | Information & Technology | SRM Technologies |
+| July 24, 2022  | LockBit | USA | Retail Trade | Dyton superior |
+| July 24, 2022  | LockBit | India | Other | Riken |
+| July 23, 2022  | ALPHV | USA | Finance & Insurance | Hometrust Mortgage Company |
+| July 23, 2022  | ALPHV | USA | Professional, Scientific & Technical Services | KKJM Lawfirm |
+| July 23, 2022  | LockBit | Education | Roedean school |
+| July 22, 2022  | ALPHV | Utilities | Creos |
+| July 22, 2022  | LockBit | USA | Other | Bizebra |
+| July 22, 2022  | LockBit | Australia | Other | Lane print |
+| July 22, 2022  | LockBit | France | Accommodations & Food Services | Lanorman dise |
+| July 22, 2022  | LockBit | Other | Osde |
+| July 22, 2022  | LockBit | USA | Professional, Scientific & Technical Services | Taylor Stafford |
+| July 22, 2022  | LockBit | Canada | Manufacturing | Town of St. Marys |
+| July 22, 2022  | LockBit | Accommodations & Food Services | Zhulian |
+| July 21, 2022  | ALPHV | Construction | HANDLER Bau GmbH |
+| July 21, 2022  | Cuba | United Arab Emirates | Other | Site-Technology |
+| July 21, 2022  | Everest | India | Finance & Insurance | FederalBank/Fedfina.part3 |
+| July 21, 2022  | LockBit | France | Accommodations & Food Services | A2 pas |
+| July 21, 2022  | LockBit | India | Information & Technology | MWD digital |
+| July 21, 2022  | ViceSociety | Poland | Retail Trade | CHDE POLSKA |
+| July 20, 2022  | BlackBasta | Retail Trade | COS2000 |
+| July 20, 2022  | BlackBasta | USA | Construction | The Minka Group |
+| July 20, 2022  | Everest | India | Professional, Scientific & Technical Services | FederalBank/Fedfina.part2 |
+| July 20, 2022  | HiveLeak | USA | Other | LaVan & Neidenberg |
+| July 20, 2022  | LockBit | Professional, Scientific & Technical Services | Addconsult |
+| July 20, 2022  | LockBit | USA | Healthcare | Coastalmedps |
+| July 20, 2022  | LockBit | Retail Trade | Competencia |
+| July 20, 2022  | LockBit | USA | Finance & Insurance | Lexington National |
+| July 20, 2022  | LockBit | India | State & Local Government | MEC |
+| July 20, 2022  | United Kingdom | Legal | Keystone Legal |
+| July 19, 2022  | LockBit | USA | Construction | Clestra |
+| July 19, 2022  | LockBit | USA | Other | Columbiagrain |
+| July 19, 2022  | LockBit | Other | CPICfiber |
+| July 19, 2022  | LockBit | USA | Other | CRBrandsInc |
+| July 19, 2022  | LockBit | USA | Healthcare | Cristianaspinecenter |
+| July 19, 2022  | LockBit | Spain | Healthcare | Fedefarma |
+| July 19, 2022  | LockBit | Manufacturing | Madcoenergi |
+| July 19, 2022  | LockBit | Italy | Accommodations & Food Services | Rovagnati |
+| July 19, 2022  | Quantum | Germany | Other | Autohaus |
+| July 19, 2022  | Quantum | USA | Professional, Scientific & Technical Services | Delon Hampton & Associates, Chartered |
+| Date          | Ransomware    | Country           | Industry                           | Company                                      |
+| ------------- | ------------- | ------------------ | ---------------------------------- | -------------------------------------------- |
+| July 19, 2022 | RagnarLocker  | USA               | Transportation & Warehousing       | GENSCO Inc. - allows Leak                   |
+| July 19, 2022 | ViceSociety   | USA               | Education                          | San Luis Coastal Unified                   |
+| July 19, 2022 | ViceSociety   | Germany           | Construction                       | XQUADRAT GmbH                                |
+| July 18, 2022 | BlackBasta    | USA               | Other                              | Dillon Precision Products                   |
+| July 18, 2022 | BlackBasta    | USA               | Other                              | Wallwork Truck Center                        |
+| July 18, 2022 | Cheers        | United Kingdom    | Finance & Insurance                | An British Financial Company - Unpay         |
+| July 18, 2022 | Cheers        | Professional, Scientific & Technical Services | An International Shipping Company - Paid |
+| July 18, 2022 | LockBit       | Canada            | Retail Trade                       | aresfoods                                    |
+| July 18, 2022 | LockBit       | Information & Technology | bizframe                        |
+| July 18, 2022 | LockBit       | Information & Technology | integrate                      |
+| July 18, 2022 | Quantum       | Construction      | Broshuis | Driving innovation           |
+| July 17, 2022 | LockBit       | Other             | sig id                                |
+| July 16, 2022 | BianLian      | Australia         | Professional, Scientific & Technical Services | Conway Electrics          |
+| July 16, 2022 | BianLian      | India             | Manufacturing                      | ISGEC Heavy Engineering                    |
+| July 16, 2022 | BianLian      | United Kingdom    | Professional, Scientific & Technical Services | VERITAS Solicitors       |
+| July 16, 2022 | HiveLeak      | Retail Trade      | Carrolls Irish Gifts                |
+| July 15, 2022 | Finland       | Other             | vahanen                               |
+| July 14, 2022 | United Kingdom | Construction    | Maxey Moverley                        |
+| July 14, 2022 | ALPHV         | USA               | Transportation & Warehousing        | Duda Farm Fresh Foods A. Duda & Sons , Inc. Duda A. Duda & Sons Duda Farm Fresh Foods |
+| July 14, 2022 | ALPHV         | Professional, Scientific & Technical Services | Unisuper S.A.             |
+| July 14, 2022 | BianLian      | Finance & Insurance | Anderson Insurance Associates       |
+| July 14, 2022 | BianLian      | USA               | Information & Technology           | High Power Technical Services             |
+| July 14, 2022 | BianLian      | USA               | Healthcare                          | Mackenzie Medical                         |
+| July 14, 2022 | BianLian      | Education         | Mooresville Schools                   |
+| July 14, 2022 | BianLian      | USA               | Professional, Scientific & Technical Services | Rain the Growth Agency |
+| July 14, 2022 | HiveLeak      | USA               | Healthcare                          | Behavioral Health System                 |
+| July 14, 2022 | HiveLeak      | Retail Trade      | CITY-FURNITURE                        |
+| July 14, 2022 | HiveLeak      | India             | Other                                | FMT                                      |
+| July 14, 2022 | HiveLeak      | Other             | RALLYE-DOM                            |
+| July 14, 2022 | LockBit       | Agriculture       | etgworld                              |
+| July 14, 2022 | LockBit       | USA               | State & Local Government             | frederickco                               |
+| July 14, 2022 | LockBit       | USA               | Agriculture                          | genusplc                                  |
+| July 14, 2022 | LockBit       | United Kingdom    | Education                            | iis                                       |
+| July 14, 2022 | LockBit       | Other             | vlp                                      |
+| July 14, 2022 | Quantum       | USA               | Manufacturing                        | ZEUS Scientific                           |
+| July 14, 2022 | France        | Information & Technology | syredis                        |
+| July 13, 2022 | Unknown       | Brazil            | State & Local Government             | Municipal Prefecture of Itapemirim         |
+| July 13, 2022 | ALPHV         | Brazil            | Other                                | duda                                     |
+| July 13, 2022 | HiveLeak      | Information & Technology | AdaptIT                          |
+| July 13, 2022 | HiveLeak      | United Kingdom    | Manufacturing                        | APETITO                                  |
+| July 13, 2022 | HiveLeak      | USA               | Other                                | Authentic Brands Group                   |
+| July 13, 2022 | HiveLeak      | Serbia            | Other                                | Exela Technologies                       |
+| July 13, 2022 | HiveLeak      | Australia         | Professional, Scientific & Technical Services | GROUP4 AUSTRALIA               |
+| July 13, 2022 | HiveLeak      | Spain             | Other                                | RTVCM                                    |
+| July 13, 2022 | HiveLeak      | France            | Accommodations & Food Services        | SANDO                                    |
+| July 13, 2022 | Lorenz        | USA               | Manufacturing                        | Biothane usa                             |
+| July 13, 2022 | Lorenz        | USA               | Transportation & Warehousing          | Gresco                                  |
+| July 13, 2022 | Lorenz        | USA               | Information & Technology             | Van Ausdall & Farrar, inc               |
+| July 13, 2022 | RagnarLocker  | Other             | Epec.PL - Lied about the absence of Leak |
+| July 12, 2022 | ALPHV         | USA               | Other                                | Podhurst Orseck                        |
+| July 12, 2022 | Quantum      | Construction    | American International Industries            |
+| July 11, 2022 | ALPHV        | USA              | Other                                      | Bandai Namco                                  |
+| July 11, 2022 | ALPHV        | USA              | Other                                      | Hydraelectric                                 |
+| July 11, 2022 | ALPHV        | State & Local Government | The Royal Commission for Riyadh City (RCRC) |
+| July 11, 2022 | Everest      | Brazil           | Construction                               | Pontal Engineering Constructions and Developments Files Leak |
+| July 11, 2022 | Lorenz       | USA              | Utilities                                  | Uppco                                        |
+| July 11, 2022 | RansomHouse  | USA              | Accommodations & Food Services             | Summit Care                                  |
+| July 10, 2022 | Unknown      | Brazil           | Utilities                                  | São Leopoldo Municipal Water and Sewage Service (Semae) |
+| July 9, 2022  | LockBit      | Other            | emprint                                     |
+| July 8, 2022  | Unknown      | Chile            | Other                                      | National Consumer Service of Chile            |
+| July 7, 2022  | BlackBasta   | USA              | Accommodations & Food Services             | OLYMPIA                                      |
+| July 7, 2022  | BlackBasta   | Australia        | Other                                      | WIENER EITUNG                                |
+| July 7, 2022  | Cuba         | Manufacturing    | STM                                        |
+| July 7, 2022  | LockBit      | Australia        | Finance & Insurance                        | Carnbrea                                     |
+| July 7, 2022  | LockBit      | France           | Other                                      | La poste Mobile                               |
+| July 6, 2022  | ALPHV        | USA              | Retail Trade                               | Adler Display Studio                           |
+| July 6, 2022  | ALPHV        | Accommodations & Food Services | Dusit D2                      |
+| July 6, 2022  | ALPHV        | Australia        | Professional, Scientific & Technical Services | SINCLAIR WILSON                  |
+| July 6, 2022  | BlackBasta   | USA              | Other                                      | Columbus City                               |
+| July 6, 2022  | BlackBasta   | Belgium          | Manufacturing                              | DEKIMO                                      |
+| July 6, 2022  | BlackBasta   | Healthcare       | Health Plan services inc.                   |
+| July 6, 2022  | BlackBasta   | Belgium          | Healthcare                                 | Jinny`s passion for beauty                |
+| July 6, 2022  | BlackBasta   | Germany          | Construction                               | JKLM                                     |
+| July 6, 2022  | BlackBasta   | Utilities        | LokalTog                                   |
+| July 6, 2022  | BlackBasta   | USA              | Professional, Scientific & Technical Services | LYDECKER                             |
+| July 6, 2022  | BlackBasta   | Germany          | Other                                      | MHKW                                    |
+| July 6, 2022  | BlackBasta   | Canada           | Retail Trade                               | Olympiatile+Stone                     |
+| July 6, 2022  | BlackBasta   | Belgium          | Retail Trade                               | Roche Bobois                            |
+| July 6, 2022  | BlackBasta   | Germany          | Other                                      | SCHMIDT.Group                            |
+| July 6, 2022  | BlackBasta   | USA              | Other                                      | SIERRA pacific industries                 |
+| July 6, 2022  | BlackBasta   | India            | Other                                      | TMI                                     |
+| July 6, 2022  | BlackBasta   | Other            | VKF RENZEL                                 |
+| July 6, 2022  | BlackByte    | USA              | Healthcare                                 | Gateway Rehab                         |
+| July 6, 2022  | BlackByte    | USA              | Healthcare                                 | Lamoille Health Partners               |
+| July 6, 2022  | LockBit      | Canada           | Retail Trade                               | Alphachem Limited                    |
+| July 6, 2022  | LockBit      | USA              | Agriculture                                | Cabbage Inc.                             |
+| July 5, 2022  | Everest      | Brazil           | Construction                               | Potent Engineering                         |
+| July 5, 2022  | Lorenz       | USA              | Transportation & Warehousing               | Wis-Pak                                  |
+| July 4, 2022  | ALPHV        | Finance & Insurance | Holland Accountancy                   |
+| July 4, 2022  | HiveLeak     | USA              | Other                                      | Austin Muncipal Airport                   |
+| July 4, 2022  | HiveLeak     | Germany          | Information & Technology                   | CANCOM                                   |
+| July 4, 2022  | HiveLeak     | Other            | Direct Ferries                             |
+| July 4, 2022  | HiveLeak     | Finance & Insurance | Hamlyns Limited                      |
+| July 4, 2022  | HiveLeak     | USA              | State & Local Government                   | Kentucky department of education           |
+| July 4, 2022  | HiveLeak     | Accommodations & Food Services | Massy distribution      |
+| July 4, 2022  | HiveLeak     | India            | Other                                      | MHIRE                                      |
+| July 4, 2022  | HiveLeak     | Retail Trade     | NETWORK4CARS                               |
+| July 4, 2022  | HiveLeak     | USA              | Retail Trade                               | WW Palets Inc.                             |
+| July 4, 2022  | HiveLeak     | Transportation & Warehousing | Yurtici Kargo              |
+| July 4, 2022  | HiveLeak     | Transportation & Warehousing | Yurtiçi Kargo             |
+| July 12, 2022 | Quantum      | Construction    | American International Industries            |
+| July 11, 2022 | ALPHV        | USA              | Other                                      | Bandai Namco                                  |
+| July 11, 2022 | ALPHV        | USA              | Other                                      | Hydraelectric                                 |
+| July 11, 2022 | ALPHV        | State & Local Government | The Royal Commission for Riyadh City (RCRC) |
+| July 11, 2022 | Everest      | Brazil           | Construction                               | Pontal Engineering Constructions and Developments Files Leak |
+| July 11, 2022 | Lorenz       | USA              | Utilities                                  | Uppco                                        |
+| July 11, 2022 | RansomHouse  | USA              | Accommodations & Food Services             | Summit Care                                  |
+| July 10, 2022 | Unknown      | Brazil           | Utilities                                  | São Leopoldo Municipal Water and Sewage Service (Semae) |
+| July 9, 2022  | LockBit      | Other            | emprint                                     |
+| July 8, 2022  | Unknown      | Chile            | Other                                      | National Consumer Service of Chile            |
+| July 7, 2022  | BlackBasta   | USA              | Accommodations & Food Services             | OLYMPIA                                      |
+| July 7, 2022  | BlackBasta   | Australia        | Other                                      | WIENER EITUNG                                |
+| July 7, 2022  | Cuba         | Manufacturing    | STM                                        |
+| July 7, 2022  | LockBit      | Australia        | Finance & Insurance                        | Carnbrea                                     |
+| July 7, 2022  | LockBit      | France           | Other                                      | La poste Mobile                               |
+| July 6, 2022  | ALPHV        | USA              | Retail Trade                               | Adler Display Studio                           |
+| July 6, 2022  | ALPHV        | Accommodations & Food Services | Dusit D2                      |
+| July 6, 2022  | ALPHV        | Australia        | Professional, Scientific & Technical Services | SINCLAIR WILSON                  |
+| July 6, 2022  | BlackBasta   | USA              | Other                                      | Columbus City                               |
+| July 6, 2022  | BlackBasta   | Belgium          | Manufacturing                              | DEKIMO                                      |
+| July 6, 2022  | BlackBasta   | Healthcare       | Health Plan services inc.                   |
+| July 6, 2022  | BlackBasta   | Belgium          | Healthcare                                 | Jinny`s passion for beauty                |
+| July 6, 2022  | BlackBasta   | Germany          | Construction                               | JKLM                                     |
+| July 6, 2022  | BlackBasta   | Utilities        | LokalTog                                   |
+| July 6, 2022  | BlackBasta   | USA              | Professional, Scientific & Technical Services | LYDECKER                             |
+| July 6, 2022  | BlackBasta   | Germany          | Other                                      | MHKW                                    |
+| July 6, 2022  | BlackBasta   | Canada           | Retail Trade                               | Olympiatile+Stone                     |
+| July 6, 2022  | BlackBasta   | Belgium          | Retail Trade                               | Roche Bobois                            |
+| July 6, 2022  | BlackBasta   | Germany          | Other                                      | SCHMIDT.Group                            |
+| July 6, 2022  | BlackBasta   | USA              | Other                                      | SIERRA pacific industries                 |
+| July 6, 2022  | BlackBasta   | India            | Other                                      | TMI                                     |
+| July 6, 2022  | BlackBasta   | Other            | VKF RENZEL                                 |
+| July 6, 2022  | BlackByte    | USA              | Healthcare                                 | Gateway Rehab                         |
+| July 6, 2022  | BlackByte    | USA              | Healthcare                                 | Lamoille Health Partners               |
+| July 6, 2022  | LockBit      | Canada           | Retail Trade                               | Alphachem Limited                    |
+| July 6, 2022  | LockBit      | USA              | Agriculture                                | Cabbage Inc.                             |
+| July 5, 2022  | Everest      | Brazil           | Construction                               | Potent Engineering                         |
+| July 5, 2022  | Lorenz       | USA              | Transportation & Warehousing               | Wis-Pak                                  |
+| July 4, 2022  | ALPHV        | Finance & Insurance | Holland Accountancy                   |
+| July 4, 2022  | HiveLeak     | USA              | Other                                      | Austin Muncipal Airport                   |
+| July 4, 2022  | HiveLeak     | Germany          | Information & Technology                   | CANCOM                                   |
+| July 4, 2022  | HiveLeak     | Other            | Direct Ferries                             |
+| July 4, 2022  | HiveLeak     | Finance & Insurance | Hamlyns Limited                      |
+| July 4, 2022  | HiveLeak     | USA              | State & Local Government                   | Kentucky department of education           |
+| July 4, 2022  | HiveLeak     | Accommodations & Food Services | Massy distribution      |
+| July 4, 2022  | HiveLeak     | India            | Other                                      | MHIRE                                      |
+| July 4, 2022  | HiveLeak     | Retail Trade     | NETWORK4CARS                               |
+| July 4, 2022  | HiveLeak     | USA              | Retail Trade                               | WW Palets Inc.                             |
+| July 4, 2022  | HiveLeak     | Transportation & Warehousing | Yurtici Kargo              |
+| July 4, 2022  | HiveLeak     | Transportation & Warehousing | Yurtiçi Kargo             |
+| July 4, 2022  | ViceSociety  | Spain            | Other                                      | Vectalia                                   |
+| July 3, 2022  | BlackBasta   | USA              | Manufacturing                              | Capsonic                                   |
+| July 3, 2022  | BlackBasta   | USA              | Transportation & Warehousing               | V2 Logistics Corp                          |
+| July 3, 2022  | HiveLeak     | Canada           | Accommodations & Food Services             | AG inspired Cuisine                        |
+| July 2, 2022  | HiveLeak     | USA              | Manufacturing                              | Rocky                                      |
+| July 2, 2022  | LockBit      | France           | Finance & Insurance                        | Acer Finance                               |
+| July 2, 2022  | LockBit      | France           | Professional, Scientific & Technical Services | Axelcium                                |
+| July 2, 2022  | LockBit      | France           | Professional, Scientific & Technical Services | Bosco Avocats                            |
+| July 2, 2022  | LockBit      | Manufacturing    | FAAC                                       |
+| July 2, 2022  | LockBit      | France           | Finance & Insurance                        | LES BUREAUX                                |
+| July 2, 2022  | LockBit      | France           | Professional, Scientific & Technical Services | PLR Avocats                             |
+| July 2, 2022  |                | Transportation & Warehousing | HAVI                    |
+| July 2, 2022  |                | USA              | Manufacturing                              | Shorr                                    |
+| July 2, 2022  |                | USA              | Retail Trade                               | Walmart                                  |
+| July 1, 2022  | ALPHV        | USA              | Other                                      | Continental Management                    |
+| July 1, 2022  | ALPHV        | Other            | Hansa-Kontakt                              |
+| July 1, 2022  | Cheers       | USA              | Transportation & Warehousing               | Asiana USA                                |
+| July 1, 2022  | Everest      | Italy            | Utilities                                  | Amalfitana Gas                            |
+| July 1, 2022  | LockBit      | Retail Trade     | Sigma Alimentos                            |
+| June 30, 2022 | Cheers       | USA              | Information & Technology                   | Innovancde                                 |
+| June 30, 2022 | LockBit      | USA              | Manufacturing                              | OSI laser diaode Inc.                     |
+| June 30, 2022 | Quantum      | Canada           | Construction                               | Crupi Group                               |
+| June 30, 2022 | Snatch       | USA              | Healthcare                                 | Atlanic Dialysis                          |
+| June 29, 2022 | BlackBasta   | USA              | Finance & Insurance                        | New peoples bank                          |
+| June 29, 2022 | LockBit      | USA              | Transportation & Warehousing               | Lonseal                                   |
+| June 29, 2022 | LockBit      | USA              | Retail Trade                               | Metro                                    |
+| June 29, 2022 | Quantum      | USA              | Retail Trade                               | Avante                                   |
+| June 29, 2022 | Snatch       | Canada           | Other                                      | Apex Imaging inc.                         |
+| June 28, 2022 | Cheers       | Construction    | Sembcorp Marine                            |
+| June 28, 2022 | HiveLeak     | USA              | Other                                      | Diskriter                                 |
+| June 28, 2022 | HiveLeak     | Manufacturing    | SAI Superalloy                             |
+| June 28, 2022 | LockBit      | Italy            | Information & Technology                   | Datalit                                  |
+| June 27, 2022 | Cuba         | Italy            | Other                                      | R1 Group                                  |
+| June 27, 2022 | Lorenz       | USA              | Finance & Insurance                        | Bonneville                               |
+| June 27, 2022 | ViceSociety  | State & Local Government | Ministry of Agriculture             |
+| June 26, 2022 | BlackBasta   | USA              | Manufacturing                              | Elbit Systems                             |
+| June 26, 2022 | BlackByte    | USA              | Education                                  | Napa Valley College                       |
+| June 26, 2022 | LockBit      | USA              | State & Local Government                   | OAK Book                                 |
+| June 26, 2022 | ViceSociety  | Education        | Medical University of Innsbruck            |
+| June 25, 2022 | Lapsus$      | USA              | Manufacturing                              | Nvidia                                    |
+| June 24, 2022 | RagnarLocker | USA              | Manufacturing                              | Prudential LTG.                           |
+| June 23, 2022 | ALPHV        | USA              | Other                                      | Nutis Visual                             |
+| June 23, 2022 | Everest      | USA              | Retail Trade                               | Charlatte                                  |
+| June 23, 2022 | HiveLeak     | USA              | Other                                      | Alphapointe                               |
+| June 23, 2022 | HiveLeak     | Other            | Artear                                    |
+| June 23, 2022 | RagnarLocker | USA              | Information & Technology                   | EKRAN                                   |
+| June 22, 2022 | ALPHV        | Finance & Insurance | CCS                                     |
+| June 22, 2022 | ALPHV        | USA              | Other                                      | Matco Electric                             |
+| June 22, 2022 | ALPHV        | Canada           | Professional, Scientific & Technical Services | Read Pope                              |
+| June 22, 2022 | lv           | Manufacturing    | Bahra                                     |
+| June 22, 2022 | HONDA                 | Manufacturing | ViceSociety |
+| June 22, 2022 | Pilton Community College | Education     | ViceSociety |
+| June 21, 2022 | Battle Company         | USA - Manufacturing | BlackBasta |
+| June 21, 2022 | Canaropa               | Canada - Retail Trade | BlackBasta |
+| June 21, 2022 | MH Group               | Spain - Professional, Scientific & Technical Services | BlackBasta |
+| June 21, 2022 | MS Mechanical System Company | USA - Construction | BlackBasta |
+| June 21, 2022 | PARADOX                | USA - Other  | BlackBasta |
+| June 21, 2022 | Agricola Andrea        | Agriculture   | LockBit |
+| June 21, 2022 | Coteg & Azam Advocates | France - Professional, Scientific & Technical Services | LockBit |
+| June 21, 2022 | Farmacia Circi         | Spain - Healthcare | LockBit |
+| June 21, 2022 | Nodes Ecom Group S.L   | Spain - Other | LockBit |
+| June 21, 2022 | Sigma                  | Spain - Other | LockBit |
+| June 21, 2022 | Ospedale Macedonio Melloni | Italy - Healthcare | ViceSociety |
+| June 20, 2022 | ACAC                   | Canada - Other | LockBit |
+| June 20, 2022 | Built It               | USA - Construction | LockBit |
+| June 20, 2022 | Emprint                | USA - Other | LockBit |
+| June 20, 2022 | Invest Easy            | State & Local Government | LockBit |
+| June 20, 2022 | Kuwait Airways         | USA - Other | LockBit |
+| June 20, 2022 | Plage Palace           | France - Accommodations & Food Services | LockBit |
+| June 20, 2022 | Rhenus Logistics       | USA - Transportation & Warehousing | LockBit |
+| June 19, 2022 | Optoma                 | USA - Other | LockBit |
+| June 18, 2022 | Entrust                | USA - Information & Technology | LockBit |
+| June 18, 2022 | Lundin Roofing Co LLC  | USA - Construction | LockBit |
+| June 18, 2022 | TB Kawashima AUNDE     | India - Manufacturing | LockBit |
+| June 18, 2022 | Vector                 | Brazil - Information & Technology | LockBit |
+| June 16, 2022 | RG Alliance Group      | USA - Professional, Scientific & Technical Services | Quantum |
+| June 17, 2022 | Haberland Bestatt.Inst. | Germany - Other | LockBit |
+| June 17, 2022 | Keisei                 | Japan - Other | LockBit |
+| June 17, 2022 | Lund                   | Healthcare | LockBit |
+| June 16, 2022 | ARDEBOL ASSESSORS SL   | Spain - Other | LockBit |
+| June 16, 2022 | Bestattung Graz        | Other | LockBit |
+| June 16, 2022 | Molto Luce AG Lenzburg | USA - Manufacturing | lv |
+| June 16, 2022 | Novelty                | France - Professional, Scientific & Technical Services | ViceSociety |
+| June 16, 2022 | The Magnum             | Accommodations & Food Services | ViceSociety |
+| June 14, 2022 | Alison                 | USA - Accommodations & Food Services | ALPHV |
+| June 14, 2022 | Plainedge Public Schools | USA - Education | ALPHV |
+| June 14, 2022 | Purvis Industries      | USA - Retail Trade | ALPHV |
+| June 14, 2022 | Bernd Hösele Group     | Other | BlackBasta |
+| June 14, 2022 | Metek plc              | Manufacturing | Everest |
+| June 14, 2022 | Dirección General de Ingresos (DGI) | State & Local Government | LockBit |
+| June 14, 2022 | Enclosure Solutions, Inc | USA - Professional, Scientific & Technical Services | LockBit |
+| June 14, 2022 | Genus                  | Agriculture | LockBit |
+| June 14, 2022 | PT. Medco Energi Internasional | Utilities | LockBit |
+| June 14, 2022 | Wasteitalia            | Italy - Utilities | LockBit |
+| June 14, 2022 | SHIFFMAN               | USA - Healthcare | lv |
+| June 14, 2022 | Medlab Pathology       | Australia - Healthcare | Quantum |
 
-** Start Page 26 **
+
+-StartPage36-
+
 
 
 
