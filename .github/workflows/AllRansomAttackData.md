@@ -1895,8 +1895,6 @@
 | June 4, 2022  | SilTerra Malaysia | lv - Manufacturing                          | SilTerra Malaysia |
 | June 4, 2022  | Sierra Packaging Inc | USA - Other                             | Sierra Packaging Inc |
 | June 4, 2022  | Northeastern Technical College | USA - Education                       | Northeastern Technical College |
-| Date       | Ransomware          | Location                                           | Industry                               | Organization Name                       |
-|------------|---------------------|----------------------------------------------------|----------------------------------------|-----------------------------------------|
 | June 3, 2022 | LockBit           | USA - Other                                        | Sports Reference LLC                   |
 | June 2, 2022 | Unknown            | USA - Education                                    | Tenafly High School                    |
 | June 2, 2022 | ALPHV              | USA - Other                                        | Alexandria International Airport        |
@@ -1947,8 +1945,6 @@
 | May 27, 2022 | Quantum            | USA - Other                                        | Florida Department Of Veterans' Affairs |
 | May 26, 2022 | Everest            | USA - Manufacturing                                | The Kit Car List                       |
 | May 26, 2022 | HiveLeak           | USA - Other                                        | Chemstation International, Inc.         |
-| Date       | Ransomware        | Location                         | Industry                              | Organization Name                      |
-|------------|-------------------|----------------------------------|---------------------------------------|----------------------------------------|
 | May 26, 2022 | HiveLeak       | USA - Manufacturing              | Guardian Fueling Technologies           |
 | May 26, 2022 | HiveLeak       | Canada - Other                   | Soucy                                  |
 | May 26, 2022 | LockBit        | Canada - Manufacturing           | Edm Canada Inc.                        |
@@ -1999,8 +1995,6 @@
 | May 22, 2022 | LockBit        | Germany - Information & Technology | reitzner AG                          |
 | May 22, 2022 | LockBit        | Other                            | Seat                                   |
 | May 22, 2022 | Snatch         | France - Other                   | HEMERIA                                |
-| Date       | Ransomware    | Location               | Industry                              | Organization Name                      |
-|------------|---------------|------------------------|---------------------------------------|----------------------------------------|
 | May 21, 2022 | BlackByte  | State & Local Government | Contraloría General de la República  |
 | May 21, 2022 | BlackByte  | Manufacturing           | Grupo Pavisa                           |
 | May 21, 2022 | LockBit   | Other                   | FOCUS Adventure                        |
@@ -2101,11 +2095,211 @@
 | May 5, 2022  | BlackBasta | Construction     | Rollecate B.V.                            |
 | May 5, 2022  | BlackBasta | Other            | sole technology europe                   |
 | May 5, 2022  | LockBit    | France           | Professional, Scientific & Technical Services | Delcourt - Entretien et Hygiène pour les Pro |
+| May 5, 2022 | LockBit    | Spain            | Arts, Entertainment & Recreation         | Gran Teatre del Liceu                      |
+| May 5, 2022 | Lorenz     | Other            | Tosoh Europe B.V.                        |
+| May 5, 2022 | Mindware   | USA              | Other                                   | ACO Rent A Car                            |
+| May 5, 2022 | Mindware   | USA              | Healthcare                               | Allwell Behavioral Health Services         |
+| May 5, 2022 | Mindware   | France           | Manufacturing                           | diager                                     |
+| May 5, 2022 | Mindware   | Australia        | Healthcare                               | Dr Andrew Wills                           |
+| May 5, 2022 | Mindware   | USA              | Other                                   | call inc.                                 |
+| May 5, 2022 | Mindware   | USA              | Manufacturing                           | micro'pak                                 |
+| May 5, 2022 | Mindware   | USA              | Other                                   | nott company                              |
+| May 5, 2022 | Mindware   | USA              | Other                                   | the bureau                                |
+| May 5, 2022 | Mindware   | Other            | SMD Sandton                              |
+| May 5, 2022 | Mindware   | USA              | Agriculture                             | tosh farms                                |
+| May 5, 2022 | Mindware   | Manufacturing    | Well Plast B.V                           |
+| May 5, 2022 | Mindware   | USA              | Other                                   | midius                                    |
+| May 5, 2022 | Mindware   | USA              | Construction                             | Simpson                                   |
+| May 4, 2022 | BlackBasta | Serbia           | Transportation & Warehousing            | Žito Media d.o.o.                         |
+| May 4, 2022 | Conti      | Finland          | Other                                   | European Youth Parliament Finland EYP Finland ry |
+| May 4, 2022 | HiveLeak   | Spain            | Retail Trade                            | TARTIERE AUTO Volkswagen                  |
+| May 4, 2022 | LockBit    | Manufacturing    | Nizing Electric Wire & Cable Co., Ltd.   |
+| May 4, 2022 | LockBit    | State & Local Government | Public Procurement Regulatory Authority |
+| May 4, 2022 | LockBit    | Retail Trade      | Rogz World HQ                            |
+| May 4, 2022 | Lorenz     | USA              | Healthcare                               | Tosoh Bioscience LLC                      |
+| May 4, 2022 | ViceSociety | USA             | Other                                   | Haynes Manuals                            |
+| May 4, 2022 | ViceSociety | Other           | Hellenic Post (ELTA)                     |
+| May 3, 2022 | ALPHV      | Other            | British Link Kuwait Logistics            |
+| May 3, 2022 | ALPHV      | United Kingdom   | Other                                   | Sarasin and Partners LLP                 |
+| May 3, 2022 | KelvinSecurity | India       | Professional, Scientific & Technical Services | BFC Forex                            |
+| May 3, 2022 | KelvinSecurity | India       | Information & Technology                | Instance IT Solutions India                |
+| May 3, 2022 | LockBit    | India            | Accommodations & Food Services           | five star icecream                        |
+| May 3, 2022 | REvil      | Other            | Unicity International                     |
+| May 3, 2022 | ViceSociety | Education       | Asia Pacific University of Technology & Innovation (APU) |
+| May 2, 2022 | BlackBasta | USA              | Information & Technology                 | Jameco Electronics - Electronics Store & Distributor |
+| May 2, 2022 | BlackBasta | USA              | Professional, Scientific & Technical Services | PRGX USA Inc                   |
+| May 2, 2022 | BlackBasta | USA              | Real Estate                              | Team Scholz Properties Unlimited Inc.      |
+| May 2, 2022 | BlackByte  | Finance & Insurance | fransabank                            |
+| May 2, 2022 | BlackByte  | Professional, Scientific & Technical Services | M+R SPEDAG GROUP                 |
+| May 2, 2022 | BlackByte  | Italy            | Retail Trade                             | SOGEGROSS SPA                          |
+| May 2, 2022 | LockBit    | United Kingdom   | Construction                             | CWA Ltd                                  |
+| May 2, 2022 | LockBit    | Italy            | Construction                             | Eredi Riva Geom. Mario S.R.L.            |
+| May 2, 2022 | LockBit    | France           | Professional, Scientific & Technical Services | Vestas France - SSU Vallée du Rhône - Auvergne |
+| May 1, 2022 | ALPHV      | USA              | Professional, Scientific & Technical Services | Davis Law Group, P.C.          |
+| May 1, 2022 | Everest    | Canada           | Healthcare                               | Collegiate sports medicine                |
+| May 1, 2022 | LockBit    | Healthcare       | Alfredo Figueiredo - Cirurgia Ortopédica e da Coluna Vertebral, Lda. |
+| May 1, 2022 | LockBit    | Other            | Digital Card Corporation                 |
+| May 1, 2022 | LockBit    | Other            | Ethiopian Airlines                       |
+| May 1, 2022 | LockBit    | Transportation & Warehousing | Municipal Services Urban Transportation of Coimbra |
+| May 1, 2022 | LockBit    | USA              | Construction                             | ZDG                                      |
+| April 30, 2022 | ALPHV    | USA              | Manufacturing                           | Innotec #100 | LED Lighting and Technology Manufacturer |
+| April 30, 2022 | ALPHV    | USA              | Manufacturing                           | Phoenix/Packaging Inc.                    |
+| April 30, 2022 | LockBit  | USA              | Other                                   | P & F Automotive Warehouse                |
+| April 30, 2022 | LockBit | USA              | Agriculture                            | Sage Fruit Co LLC                               |
+| April 30, 2022 | LockBit | Canada           | Education                              | Seven Generations Education Institute           |
+| April 30, 2022 | LockBit |                  | Education                              | Universidad Hispanoamericana Tibás              |
+| April 29, 2022 | ALPHV   | USA              | Manufacturing                          | Innotec #100 | LED Lighting and Technology Manufactureri |
+| April 29, 2022 | HiveLeak | USA             | Other                                  | Monterey Mechanical Co.                         |
+| April 29, 2022 | LockBit | USA             | Construction                           | remar construction                               |
+| April 29, 2022 | LockBit | USA             | Accommodations & Food Services         | the bird                                        |
+| April 29, 2022 | LockBit | USA             | Accommodations & Food Services         | watermark                                       |
+| April 29, 2022 | lv       | USA             | Other                                  | Motive Energy Inc                              |
+| April 29, 2022 | Onyx     | USA             | Professional, Scientific & Technical Services | Ackerman Plumbing Inc                |
+| April 29, 2022 | Onyx     | USA             | Healthcare                             | Advantage Direct Care                          |
+| April 29, 2022 | Onyx     | USA             | Manufacturing                          | C & C Farmers Supply Corporation                |
+| April 29, 2022 | Onyx     | USA             | Construction                           | Pacific Maritime Industries                      |
+| April 29, 2022 | Onyx     | USA             | State & Local Government                | Jasper County Sheriff's Office                   |
+| April 29, 2022 | Onyx     | Canada          | Information & Technology               | Semaphore Solutions Inc                          |
+| April 29, 2022 | Onyx     | USA             | Healthcare                             | Wayne Family Practice Associates Pc              |
+| April 29, 2022 | Quantum  | Canada          | Manufacturing                          | Drive Products                                   |
+| April 29, 2022 | Quantum  | Australia       | Construction                           | Grosvenor Engineering Group                      |
+| April 29, 2022 | Quantum  | USA             | Accommodations & Food Services         | Henry's Bar & Restaurant                         |
+| April 29, 2022 | Quantum  | USA             | Construction                           | Hufcor Inc.                                      |
+| April 29, 2022 | Quantum  | USA             | Other                                  | Petro Serve USA #80                             |
+| April 29, 2022 | Quantum  | USA             | Other                                  | Valley Rentals                                  |
+| April 29, 2022 | ViceSociety | Italy      | Other                                  | ABI Italian Banking Association                   |
+| April 29, 2022 | ViceSociety | USA        | Manufacturing                          | Building Plastics, Inc.                          |
+| April 29, 2022 | ViceSociety | Brazil      | Professional, Scientific & Technical Services | Domingues E Pinho Contadores          |
+| April 29, 2022 | ViceSociety | Brazil      | Retail Trade                            | Fonseca Supermarkets                            |
+| April 29, 2022 | ViceSociety | Thailand    | Other                                  | Goldenduck International Co.,LTD.                |
+| April 29, 2022 | ViceSociety | Brazil      | Retail Trade                            | Mercadocar Mercantil de Peças                  |
+| April 29, 2022 | ViceSociety | Germany     | Other                                  | Suhl. City in Germany                           |
+| April 28, 2022 | ALPHV   | State & Local Government | Balcón de Servicios Bicentenario       |
+| April 28, 2022 | BlackBasta | USA         | Construction                           | ragle inc.                                      |
+| April 28, 2022 | Conti   | USA            | Manufacturing                          | OTP Industrial Solutions                         |
+| April 28, 2022 | HiveLeak | Transportation & Warehousing | Attica Group                                |
+| April 28, 2022 | LockBit | USA          | Other                                  | Hydromax USA                                    |
+| April 28, 2022 | LockBit | USA          | Other                                  | oprey video                                    |
+| April 28, 2022 | Quantum | USA          | Other                                  | Tehama County Social Services                    |
+| April 28, 2022 | ViceSociety | Other   | ALMANIE GROUP                         |
+| April 28, 2022 | ViceSociety | Other   | Corferias                              |
+| April 28, 2022 | ViceSociety | France  | Other                                  | Est Ensemble                                    |
+| April 28, 2022 | ViceSociety | Spain   | Construction                           | Levantina, Ingenieria y Construccion           |
+| April 28, 2022 | ViceSociety | India   | Finance & Insurance                    | Stratton Financial Services                      |
+| April 27, 2022 | ALPHV   | USA         | Healthcare                             | Alliant Physical Therapy DATA                    |
+| April 27, 2022 | ALPHV   | USA         | Manufacturing                          | PhoenixPackagingPA                               |
+| April 27, 2022 | LockBit | Canada      | Transportation & Warehousing           | Warren Gibson Ltd.                               |
+| April 26, 2022 | ALPHV   | Manufacturing | Frisa Aerospace                       |
+| April 26, 2022 | ALPHV   | United Kingdom | Retail Trade                        | JW Anderson Soho                                 |
+| April 26, 2022 | BlackBasta | Germany  | Finance & Insurance                    | Basler Versicherungen                            |
+| April 26, 2022 | BlackBasta | USA      | Construction                           | Boswell Engineering                               |
+| April 26, 2022 | BlackBasta | Germany  | Other                                  | Deutsche Windtechnik                             |
+| April 26, 2022 | BlackBasta | USA      | Manufacturing                          | IMA Schelling Group |
+| April 26, 2022 | BlackBasta | USA                        | Manufacturing                          | Lacks Enterprises Inc                           |
+| April 26, 2022 | BlackBasta | Accommodations & Food Services | Laiteries Reunies Societe cooperative |
+| April 26, 2022 | BlackBasta | Italy                      | Other                                  | LECHLER S.p.A.                                  |
+| April 26, 2022 | BlackBasta | India                      | Retail Trade                            | Oralia jwellery                                |
+| April 26, 2022 | BlackBasta | Germany                    | Construction                           | Plauen Stahl Technologie GmbH                   |
+| April 26, 2022 | BlackBasta | Germany                    | Construction                           | TÜV NORD GROUP                                  |
+| April 26, 2022 | HiveLeak   | Construction               | SSK Ingeniería Y Construcción S.A.C.      |
+| April 26, 2022 | Quantum    | Italy                      | Other                                  | Confcommercio - Alessandria - Home              |
+| April 25, 2022 | LockBit    | Spain                      | Healthcare                             | EMUCOR                                         |
+| April 25, 2022 | LockBit    | Manufacturing             | Hüsser TORSYSTEME AG                      |
+| April 25, 2022 | LockBit    | Germany                    | Other                                  | Mehrzweckhalle Schriesheim                     |
+| April 25, 2022 | Stormous   | Belgium                    | Manufacturing                          | Alain Mattelé BV                               |
+| April 25, 2022 | Stormous   | United Kingdom            | Other                                  | RSPCA Danaher Animal Home                      |
+| April 24, 2022 | Cl0p       | USA                        | Other                                  | KSS Enterprises                                |
+| April 24, 2022 | LockBit    | USA                        | Construction                           | K DaPonte Construction Corp                     |
+| April 23, 2022 | Cl0p       | Other                      | SWIRESPO                                |
+| April 23, 2022 | Conti      | Utilities                  | Jasec                                   |
+| April 23, 2022 | LockBit    | USA                        | Other                                  | ccfsinc                                       |
+| April 23, 2022 | LockBit    | Finance & Insurance        | valoore                                 |
+| April 23, 2022 | LockBit    | United Arab Emirates       | Real Estate                            | www.tigergroup....                             |
+| April 23, 2022 | ViceSociety | United Kingdom            | Education                              | Mossbourne Federation                           |
+| April 22, 2022 | LockBit    | Brazil                     | State & Local Government                | Sefaz-RJ                                      |
+| April 22, 2022 | ALPHV      | USA                        | Professional, Scientific & Technical Services | Calvetti Ferguson                |
+| April 22, 2022 | Cuba       | USA                        | Real Estate                            | metrobrokers                                   |
+| April 22, 2022 | Cuba       | USA                        | Professional, Scientific & Technical Services | prophoenix                      |
+| April 22, 2022 | LockBit    | USA                        | Professional, Scientific & Technical Services | beckerlaw                        |
+| April 22, 2022 | LockBit    | Germany                    | Retail Trade                            | ekz                                           |
+| April 22, 2022 | LockBit    | Brazil                     | State & Local Government                | fazenda                                       |
+| April 22, 2022 | LockBit    | USA                        | Construction                           | huntongroup                                   |
+| April 22, 2022 | LockBit    | United Kingdom            | Professional, Scientific & Technical Services | incegd                       |
+| April 22, 2022 | LockBit    | Australia                  | Other                                  | lifestylesoluti...                             |
+| April 22, 2022 | LockBit    | Canada                     | Manufacturing                          | produitsneptune...                             |
+| April 22, 2022 | LockBit    | USA                        | Education                              | simplilearn                                   |
+| April 22, 2022 | LockBit    | USA                        | Finance & Insurance                    | wilshire                                      |
+| April 22, 2022 | REvil      | USA                        | Education                              | Stratford University                           |
+| April 22, 2022 | ViceSociety | France                     | Healthcare                             | Centre Hospitalier de Castelluccio             |
+| April 21, 2022 | ArvinClub  | United Arab Emirates       | Other                                  | Al Bijjar                                     |
+| April 21, 2022 | DarkLeakMarket | USA                    | Manufacturing                          | DDC Data Leak                                 |
+| April 21, 2022 | DarkLeakMarket | USA                    | Other                                  | UKG Kronos Data Leak                          |
+| April 21, 2022 | LockBit    | Italy                      | Healthcare                             | asp.messina                                   |
+| April 21, 2022 | LockBit    | Thailand                   | Manufacturing                          | tvothai                                       |
+| April 21, 2022 | Lorenz     | USA                        | Other                                  | Morrie's Auto Group                            |
+| April 21, 2022 | REvil      | Manufacturing             | Asfaltproductienijmegen                  |
+| April 21, 2022 | REvil      | Brazil                     | Construction                           | CYMZ                                          |
+| April 21, 2022 | REvil      | India                      | Utilities                              | oil-india                                     |
+| April 21, 2022 | ViceSociety | France                     | Other                                  | Maristes Hermitage                            |
+| April 21, 2022 | ViceSociety | State & Local Government   | Small Industries Development             |
+| April 20, 2022 | ALPHV      | USA                        | Utilities                              | Trace Midstream                               |
+| April 20, 2022 | ArvinClub  | Other                      | AM International                          |
+| April 20, 2022 | Conti      | Transportation & Warehousing | Attica Group                            |
+| April 20, 2022 | Everest | Other                      | Reckitt Benckiser                       |
+| April 20, 2022 | LockBit | Germany                    | Construction                            | baugeschaeft-bo...
+| April 20, 2022 | LockBit | Italy                      | Professional, Scientific & Technical Services | ingesw
+| April 20, 2022 | LockBit | Thailand                   | Manufacturing                           | lekise
+| April 20, 2022 | LockBit | Retail Trade               | MAGNAR-EIKELAND...
+| April 20, 2022 | RagnarLocker | USA                | Retail Trade                            | Simonson-Lumber Inc. First batch of Data.
+| April 20, 2022 | REvil | India                      | Retail Trade                            | Visotec Group
+| April 19, 2022 | ALPHV | India                     | Information & Technology                 | secova
+| April 19, 2022 | Conti | Retail Trade               | Del Sol
+| April 19, 2022 | Conti | Professional, Scientific & Technical Services | Instituto Meteorológico Nacional and racsa.go.cr
+| April 19, 2022 | LockBit | France                   | Real Estate                             | compagniedephal...
+| April 19, 2022 | LockBit | Spain                    | Manufacturing                           | daumar
+| April 19, 2022 | LockBit | Other                    | groupe-corbat.c...
+| April 19, 2022 | LockBit | Italy                    | Other                                   | jannone
+| April 19, 2022 | LockBit | Japan                    | Construction                            | keisei
+| April 19, 2022 | LockBit | Other                    | procab
+| April 19, 2022 | LockBit | Germany                  | Other                                   | reitzner
+| April 19, 2022 | LockBit | USA                      | Manufacturing                           | ssi-steel
+| April 19, 2022 | LockBit | USA                      | Other                                   | tnmed
+| April 18, 2022 | ALPHV | Other                    | Barakat Travel and Private Jet was Hacked
+| April 18, 2022 | Conti | Canada                   | Information & Technology                  | Centris
+| April 18, 2022 | Conti | USA                      | Construction                            | Nordex SE
+| April 18, 2022 | HiveLeak | USA                   | Construction                            | MILLS GROUP
+| April 18, 2022 | LockBit | Italy                    | Other                                   | gruppoathesis.i...
+| April 18, 2022 | LockBit | Professional, Scientific & Technical Services | kainz-haustechn.
+| April 18, 2022 | LockBit | USA                      | Other                                   | rockportmusic
+| April 17, 2022 | Cl0p | United Kingdom            | Other                                   | SA1SOLUTIONS
+| April 17, 2022 | Cl0p | Information & Technology  | SLIMSTOCK|
+| April 17, 2022 | Cl0p | USA                      | Professional, Scientific & Technical Services | SSMSJUSTIC|
+| April 17, 2022 | Cl0p | USA                      | Professional, Scientific & Technical Services | ZISSERFAMILYLAW|
+| April 17, 2022 | Conti | State & Local Government  | Ministerio de Hacienda - República de Costa Rica|
+| April 17, 2022 | Conti | USA                      | Retail Trade                            | Tucker Door &amp; Trim|
+| April 17, 2022 | ViceSociety | USA                | Healthcare                              | NuLife Med|
+| April 16, 2022 | Cl0p | USA                      | Professional, Scientific & Technical Services | AFJCONSULTING|
+| April 16, 2022 | Cl0p | USA                      | Other                                   | ALEXIM.COM FILES PART7 - 192.168.3.5\Mail\djimenez\28-06\ PUBLISHED|
+| April 16, 2022 | Cl0p | USA                      | Information & Technology                 | ALTERNATIVETECHS|
+| April 16, 2022 | Cl0p | USA                      | Other                                   | BOLTONUSA|
+| April 16, 2022 | Cl0p | USA                      | Retail Trade                            | CAPCARPET.|
+| April 16, 2022 | Cl0p | USA                      | Other                                   | DRIVEANDSHINE|
+| April 16, 2022 | Cl0p | USA                      | Manufacturing                           | EDAN|
+| April 16, 2022 | Cl0p | USA                      | Other                                   | FAIR-RITE|
+| April 16, 2022 | Cl0p | USA                      | Retail Trade                            | JBINSTANTLAWN|
+| April 16, 2022 | Cl0p | USA                      | Professional, Scientific & Technical Services | JDAVIDTAx|
+| April 16, 2022 | Cl0p | USA                      | Other                                   | ORBITELECTRIC|
+| April 16, 2022 | Everest | Canada                  | Retail Trade                            | Standard Building Supplies Ltd.|
+| April 15, 2022 | Unknown | USA                     | Legal                                   | McCarter & English|
+| April 15, 2022 | ALPHV | India                    | Information & Technology                 | eNoah it solutions|
+| April 15, 2022 | Cl0p | USA                       | Other                                   | ENPRECIS|
+| April 15, 2022 | Cl0p | Other                     | SWIRESPO|
+| April 15, 2022 | Conti | USA                      | Retail Trade                            | CJ Pony Parts|
 
 
 
 
--StartPage-41-
+-StartPage-42-
 
 
 
